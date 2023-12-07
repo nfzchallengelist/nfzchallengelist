@@ -33,7 +33,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: '3 second roxor', id: '92433126', author: 'xFinleyGD', verifier: 'Speedmanman', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#11
-    { name: 'never take yourself', id: '92575160', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'never take yourself', id: '92575160', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/lKSkVU1WS2s', type: 'Challenge' },
     
     //#12
     { name: '3 seconds icremrob', id: 'uh prob like 2 or smth', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
