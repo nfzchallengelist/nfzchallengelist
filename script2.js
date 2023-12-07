@@ -1,7 +1,7 @@
 window.addEventListener('DOMContentLoaded', function() {
   var levels = [
     //top row is #1 on the list
-    { name: 'LevelName', id: 'LevelID', author: 'LevelCreator', verifier: 'LevelVerifier', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
+    { name: 'piss mode', id: 'LevelID', author: 'LevelCreator', verifier: 'LevelVerifier', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
     { name: 'LevelName', id: 'LevelID', author: 'LevelCreator', verifier: 'LevelVerifier', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
     { name: 'LevelName', id: 'LevelID', author: 'LevelCreator', verifier: 'LevelVerifier', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
     { name: 'LevelName', id: 'LevelID', author: 'LevelCreator', verifier: 'LevelVerifier', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
