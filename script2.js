@@ -48,7 +48,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'forgotten', id: 'uh prob like 2 or smth', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#16
-    { name: 'SPACK', id: 'uh prob like 2 or smth', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'SPACK', id: 'uh prob like 2 or smth', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/0MmxMthPf04', type: 'Challenge' },
     
     //#17
     { name: 'Based Penguins', id: 'uh prob like 2 or smth', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
