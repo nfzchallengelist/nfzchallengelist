@@ -1,9 +1,9 @@
 window.addEventListener('DOMContentLoaded', function() {
   var levels = [
     //top row is #1 on the list
-    { name: 'LevelName', id: 'LevelID', author: 'LevelCreator', verifier: 'LevelVerifier', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
-    { name: 'LevelName', id: 'LevelID', author: 'LevelCreator', verifier: 'LevelVerifier', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
-    { name: 'LevelName', id: 'LevelID', author: 'LevelCreator', verifier: 'LevelVerifier', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
+    { name: 'fauxureta', id: '92003404', author: 'TortellinniT', verifier: 'TortellinniT', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
+    { name: 'Sonic Wave Infinity', id: '93205593', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
+    { name: 'finley ohio trip', id: '92202872', author: 'TortellinniT', verifier: 'TortellinniT', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
     { name: 'LevelName', id: 'LevelID', author: 'LevelCreator', verifier: 'LevelVerifier', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
     { name: 'LevelName', id: 'LevelID', author: 'LevelCreator', verifier: 'LevelVerifier', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
     { name: 'LevelName', id: 'LevelID', author: 'LevelCreator', verifier: 'LevelVerifier', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
