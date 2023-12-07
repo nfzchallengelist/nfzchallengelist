@@ -6,11 +6,11 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'PINEAPPLEUPSIDEDOWN', id: '93081214', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/2SJF8UDYw9M', type: 'Challenge' },
     { name: 'ACHE', id: '92030106', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/Pqk_4qR_5-M', type: 'Challenge' },
     { name: 'SHAMELESS', id: '92635514', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
-    { name: 'LevelName', id: 'LevelID', author: 'LevelCreator', verifier: 'LevelVerifier', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
-    { name: 'LevelName', id: 'LevelID', author: 'LevelCreator', verifier: 'LevelVerifier', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
-    { name: 'LevelName', id: 'LevelID', author: 'LevelCreator', verifier: 'LevelVerifier', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
-    { name: 'LevelName', id: 'LevelID', author: 'LevelCreator', verifier: 'LevelVerifier', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
-    { name: 'LevelName', id: 'LevelID', author: 'LevelCreator', verifier: 'LevelVerifier', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' }
+    { name: 'otakemo dansu', id: '92591135', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'Q', id: '93045504', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'PEEP', id: '92116696', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: '3 second roxor', id: '92433126', author: 'xFinleyGD', verifier: 'Speedmanman', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'never take yourself', id: '92575160', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' }
     //don't put a comma at the end of the last level..
   ];
 
