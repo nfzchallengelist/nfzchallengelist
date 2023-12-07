@@ -69,7 +69,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'KILLER', id: 'uh prob like 2 or smth', author: 'xFinleyGD', verifier: 'xFinelyGD', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#23
-    { name: '3 second finley', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: '3 second finley', id: 'uh prob like 2 or smth', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#24
     { name: 'im sorry', id: 'uh prob like 2 or smth', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
