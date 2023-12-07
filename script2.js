@@ -36,121 +36,121 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'never take yourself', id: '92575160', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#12
-    { name: '3 seconds icremrob', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: '3 seconds icremrob', id: 'uh prob like 2 or smth', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#13
-    { name: '1 seconds ache', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: '1 seconds ache', id: 'uh prob like 2 or smth', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#14
-    { name: 'misr beis burgr', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'misr beis burgr', id: 'uh prob like 2 or smth', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#15
-    { name: 'forgotten', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'forgotten', id: 'uh prob like 2 or smth', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#16
-    { name: 'SPACK', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'SPACK', id: 'uh prob like 2 or smth', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#17
-    { name: 'Based Penguins', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'Based Penguins', id: 'uh prob like 2 or smth', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#18
-    { name: '4 seconds icremrob', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: '4 seconds icremrob', id: 'uh prob like 2 or smth', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#19
-    { name: 'nfzcls', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'nfzcls', id: 'uh prob like 2 or smth', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#20
-    { name: 'airborne', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'airborne', id: 'uh prob like 2 or smth', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#21
-    { name: '3 second jello', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: '3 second jello', id: 'uh prob like 2 or smth', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#22
-    { name: 'KILLER', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'KILLER', id: 'uh prob like 2 or smth', author: 'xFinleyGD', verifier: 'xFinelyGD', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#23
     { name: '3 second finley', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#24
-    { name: 'im sorry', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'im sorry', id: 'uh prob like 2 or smth', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#25
-    { name: 'WOWee', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'WOWee', id: 'uh prob like 2 or smth', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#26
-    { name: 'owo', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'owo', id: 'uh prob like 2 or smth', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#27
-    { name: 'lgbt quiz', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'lgbt quiz', id: 'uh prob like 2 or smth', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#28
-    { name: 'Under Heroine I', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'Under Heroine I', id: 'uh prob like 2 or smth', author: 'Mariner', verifier: 'Mariner', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#29
-    { name: 'NOFUTURETERROR', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'NOFUTURETERROR', id: 'uh prob like 2 or smth', author: 'bloxy', verifier: 'bloxy', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#30
-    { name: '3 second hector', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: '3 second hector', id: 'uh prob like 2 or smth', author: 'Hectorien', verifier: 'Hectorien', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#31
-    { name: 'xobama', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'xobama', id: 'uh prob like 2 or smth', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#32
-    { name: 'UTMANING', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'UTMANING', id: 'uh prob like 2 or smth', author: 'Hectorien', verifier: 'Hectorien', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#33
-    { name: 'we can rest now', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'we can rest now', id: 'uh prob like 2 or smth', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#34
-    { name: 'floater', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'floater', id: 'uh prob like 2 or smth', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#35
-    { name: '8  pm chsallenge', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: '8  pm chsallenge', id: 'uh prob like 2 or smth', author: 'ache', verifier: 'xFinleyGD', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#36
-    { name: 'idk im bored', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'idk im bored', id: 'uh prob like 2 or smth', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#37
-    { name: 'Wase MasE', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'Wase MasE', id: 'uh prob like 2 or smth', author: 'Cubangaming1', verifier: 'xFinleyGD', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#38
-    { name: 'Cobra', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'Cobra', id: 'uh prob like 2 or smth', author: 'Cubangaming1', verifier: 'Cubangaming1', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#39
-    { name: 'SNITCHes Get sTICHES', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'SNITCHes Get sTICHES', id: 'uh prob like 2 or smth', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#40
-    { name: 'shipyp chamber', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'shipyp chamber', id: 'uh prob like 2 or smth', author: 'xFinleyGD', verifier: 'ache', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#41
-    { name: '7 CLICK BAERSTARD', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: '7 CLICK BAERSTARD', id: 'uh prob like 2 or smth', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#42
-    { name: 'and or is milk', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'and or is milk', id: 'uh prob like 2 or smth', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#43
-    { name: 'Bla9y W GO7', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'Bla9y W GO7', id: 'uh prob like 2 or smth', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#44
-    { name: 'maybe the hard', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'maybe the hard', id: 'uh prob like 2 or smth', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#45
-    { name: 'diego aint clearing', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'diego aint clearing', id: 'uh prob like 2 or smth', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#46
-    { name: 'Get it Together', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'Get it Together', id: 'uh prob like 2 or smth', author: 'Shadowpan69420', verifier: 'xFinleyGD', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#47
-    { name: 'actual', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'actual', id: 'uh prob like 2 or smth', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#48
-    { name: '5  am chsallenge', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: '5  am chsallenge', id: 'uh prob like 2 or smth', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#49
-    { name: 'hello extended list', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'hello extended list', id: 'uh prob like 2 or smth', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#50
-    { name: 'finlerstackdurrrrrrr', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' }
+    { name: 'finlerstackdurrrrrrr', id: 'uh prob like 2 or smth', author: 'Tortellini', verifier: 'Tortellini', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' }
     
     //don't put a comma at the end of the last level..
   ];
