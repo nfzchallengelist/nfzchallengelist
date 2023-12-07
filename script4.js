@@ -1,6 +1,6 @@
 window.addEventListener('DOMContentLoaded', function() {
   var levels = [
-    //top row is #1 on the list
+    //top row is #101 on the list
     { name: 'LevelName', id: 'LevelID', author: 'LevelCreator', verifier: 'LevelVerifier', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
     { name: 'LevelName', id: 'LevelID', author: 'LevelCreator', verifier: 'LevelVerifier', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
     { name: 'LevelName', id: 'LevelID', author: 'LevelCreator', verifier: 'LevelVerifier', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
@@ -22,7 +22,7 @@ window.addEventListener('DOMContentLoaded', function() {
     listItem.classList.add('list-item');
     var listNumber = document.createElement('div');
     listNumber.classList.add('list-number');
-    listNumber.textContent = '#' + (index + 1);
+    listNumber.textContent = '#' + (index + 101);
     var listThumbnail = document.createElement('div');
     listThumbnail.classList.add('list-thumbnail');
     listThumbnail.style.pointerEvents = 'none'; // Add this line
