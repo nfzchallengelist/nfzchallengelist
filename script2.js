@@ -1,17 +1,157 @@
 window.addEventListener('DOMContentLoaded', function() {
   var levels = [
-    //top row is #1 on the list
+    //THE LIST !
+    
+    //#1
     { name: '3Si is Dead', id: '95573883', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/xyI-hFyE47I', type: 'Challenge' },
+    
+    //#2
     { name: 'Streamline', id: '95921211', author: 'HyetalL', verifier: 'ache', videoUrl: 'https://youtu.be/T9U4BRE2QYM', type: 'Challenge' },
+    
+    //#3
     { name: 'MGSSMITMCHASTSEBBTGA', id: 'ask elijah loll', author: 'Elijaahhh', verifier: 'Elijaahhh', videoUrl: 'https://youtu.be/Ih6UNtTfGT8', type: 'Challenge' },
+    
+    //#4
     { name: 'PINEAPPLEUPSIDEDOWN', id: '93081214', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/2SJF8UDYw9M', type: 'Challenge' },
+    
+    //#5
     { name: 'ACHE', id: '92030106', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/Pqk_4qR_5-M', type: 'Challenge' },
+    
+    //#6
     { name: 'SHAMELESS', id: '92635514', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#7
     { name: 'otakemo dansu', id: '92591135', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#8
     { name: 'Q', id: '93045504', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#9
     { name: 'PEEP', id: '92116696', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#10
     { name: '3 second roxor', id: '92433126', author: 'xFinleyGD', verifier: 'Speedmanman', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
-    { name: 'never take yourself', id: '92575160', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' }
+    
+    //#11
+    { name: 'never take yourself', id: '92575160', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#12
+    { name: 'paklceholder level lol', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#13
+    { name: 'paklceholder level lol', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#14
+    { name: 'paklceholder level lol', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#15
+    { name: 'paklceholder level lol', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#16
+    { name: 'paklceholder level lol', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#17
+    { name: 'paklceholder level lol', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#18
+    { name: 'paklceholder level lol', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#19
+    { name: 'paklceholder level lol', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#20
+    { name: 'paklceholder level lol', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#21
+    { name: 'paklceholder level lol', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#22
+    { name: 'paklceholder level lol', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#23
+    { name: 'paklceholder level lol', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#24
+    { name: 'paklceholder level lol', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#25
+    { name: 'paklceholder level lol', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#26
+    { name: 'paklceholder level lol', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#27
+    { name: 'paklceholder level lol', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#28
+    { name: 'paklceholder level lol', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#29
+    { name: 'paklceholder level lol', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#30
+    { name: 'paklceholder level lol', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#31
+    { name: 'paklceholder level lol', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#32
+    { name: 'paklceholder level lol', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#33
+    { name: 'paklceholder level lol', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#34
+    { name: 'paklceholder level lol', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#35
+    { name: 'paklceholder level lol', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#36
+    { name: 'paklceholder level lol', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#37
+    { name: 'paklceholder level lol', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#38
+    { name: 'paklceholder level lol', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#39
+    { name: 'paklceholder level lol', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#40
+    { name: 'paklceholder level lol', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#41
+    { name: 'paklceholder level lol', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#42
+    { name: 'paklceholder level lol', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#43
+    { name: 'paklceholder level lol', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#44
+    { name: 'paklceholder level lol', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#45
+    { name: 'paklceholder level lol', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#46
+    { name: 'paklceholder level lol', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#47
+    { name: 'paklceholder level lol', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#48
+    { name: 'paklceholder level lol', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#49
+    { name: 'paklceholder level lol', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    
+    //#50
+    { name: 'paklceholder level lol', id: 'uh prob like 2 or smth', author: 'brock obamna', verifier: 'zoink i rhgink', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' }
+    
     //don't put a comma at the end of the last level..
   ];
 
