@@ -1,6 +1,6 @@
 window.addEventListener('DOMContentLoaded', function() {
   var levels = [
-    //top row is #1 on the list
+    //top row is #51 on the list
     { name: 'core bore glore', id: '92126842', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
     { name: 'fauxureta', id: '92003404', author: 'TortellinniT', verifier: 'TortellinniT', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
     { name: 'Sonic Wave Infinity', id: '97128437', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
@@ -26,7 +26,7 @@ window.addEventListener('DOMContentLoaded', function() {
     listItem.classList.add('list-item');
     var listNumber = document.createElement('div');
     listNumber.classList.add('list-number');
-    listNumber.textContent = '#' + (index + 1);
+    listNumber.textContent = '#' + (index + 51);
     var listThumbnail = document.createElement('div');
     listThumbnail.classList.add('list-thumbnail');
     listThumbnail.style.pointerEvents = 'none'; // Add this line
