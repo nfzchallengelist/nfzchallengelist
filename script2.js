@@ -42,7 +42,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: '1 seconds ache', id: 'uh prob like 2 or smth', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/vmCTbD8g5Hc', type: 'Challenge' },
     
     //#14
-    { name: 'misr beis burgr', id: 'uh prob like 2 or smth', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'misr beis burgr', id: 'uh prob like 2 or smth', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/ON8q6T2Qmmo', type: 'Challenge' },
     
     //#15
     { name: 'forgotten', id: 'uh prob like 2 or smth', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
