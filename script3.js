@@ -4,13 +4,13 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'fauxureta', id: '92003404', author: 'TortellinniT', verifier: 'TortellinniT', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
     { name: 'Sonic Wave Infinity', id: '93205593', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
     { name: 'finley ohio trip', id: '92202872', author: 'TortellinniT', verifier: 'TortellinniT', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
-    { name: 'LevelName', id: 'LevelID', author: 'LevelCreator', verifier: 'LevelVerifier', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
-    { name: 'LevelName', id: 'LevelID', author: 'LevelCreator', verifier: 'LevelVerifier', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
-    { name: 'LevelName', id: 'LevelID', author: 'LevelCreator', verifier: 'LevelVerifier', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
-    { name: 'LevelName', id: 'LevelID', author: 'LevelCreator', verifier: 'LevelVerifier', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
-    { name: 'LevelName', id: 'LevelID', author: 'LevelCreator', verifier: 'LevelVerifier', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
-    { name: 'LevelName', id: 'LevelID', author: 'LevelCreator', verifier: 'LevelVerifier', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
-    { name: 'LevelName', id: 'LevelID', author: 'LevelCreator', verifier: 'LevelVerifier', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' }
+    { name: 'microclick hell', id: '92127106', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
+    { name: 'if i were a fish', id: '93197387', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
+    { name: 'TheWholeWorldAndYou', id: '92081453', author: 'Shadowpan69420', verifier: 'Shadowpan69420', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
+    { name: 'Greg', id: '95244928', author: 'Hectorien', verifier: 'Hectorien', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
+    { name: '4  am chsallenge', id: '92668659', author: 'idkache', verifier: 'idkache', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
+    { name: 'hi but not hi by krm', id: '93350188', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
+    { name: '2  am chsallenge', id: '92491018', author: 'ache', verifier: 'ache', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' }
     //don't put a comma at the end of the last level..
   ];
 
