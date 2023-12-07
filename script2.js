@@ -36,7 +36,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'never take yourself', id: '92575160', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/lKSkVU1WS2s', type: 'Challenge' },
     
     //#12
-    { name: '3 seconds icremrob', id: 'uh prob like 2 or smth', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: '3 seconds icremrob', id: '92107867', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#13
     { name: '1 seconds ache', id: 'uh prob like 2 or smth', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/vmCTbD8g5Hc', type: 'Challenge' },
@@ -48,34 +48,34 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'forgotten', id: 'uh prob like 2 or smth', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#16
-    { name: 'SPACK', id: 'uh prob like 2 or smth', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/0MmxMthPf04', type: 'Challenge' },
+    { name: 'SPACK', id: '92147966', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/0MmxMthPf04', type: 'Challenge' },
     
     //#17
-    { name: 'Based Penguins', id: 'uh prob like 2 or smth', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'Based Penguins', id: '92024672', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#18
     { name: '4 seconds icremrob', id: 'uh prob like 2 or smth', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#19
-    { name: 'nfzcls', id: 'uh prob like 2 or smth', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'nfzcls', id: '92036087', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#20
-    { name: 'airborne', id: 'uh prob like 2 or smth', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'airborne', id: '92186881', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#21
     { name: '3 second jello', id: 'uh prob like 2 or smth', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#22
-    { name: 'KILLER', id: 'uh prob like 2 or smth', author: 'xFinleyGD', verifier: 'xFinelyGD', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'KILLER', id: '92146539', author: 'xFinleyGD', verifier: 'xFinelyGD', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#23
-    { name: '3 second finley', id: 'uh prob like 2 or smth', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: '3 second finley', id: '92021708', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#24
-    { name: 'im sorry', id: 'uh prob like 2 or smth', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'im sorry', id: '92267104', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#25
-    { name: 'WOWee', id: 'uh prob like 2 or smth', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'WOWee', id: '92059623', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#26
     { name: 'owo', id: 'uh prob like 2 or smth', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
@@ -87,22 +87,22 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'Under Heroine I', id: 'uh prob like 2 or smth', author: 'Mariner', verifier: 'Mariner', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#29
-    { name: 'NOFUTURETERROR', id: 'uh prob like 2 or smth', author: 'bloxy', verifier: 'bloxy', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'NOFUTURETERROR', id: '92062723', author: 'bloxy', verifier: 'bloxy', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#30
     { name: '3 second hector', id: 'uh prob like 2 or smth', author: 'Hectorien', verifier: 'Hectorien', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#31
-    { name: 'xobama', id: 'uh prob like 2 or smth', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'xobama', id: '92020976', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#32
-    { name: 'UTMANING', id: 'uh prob like 2 or smth', author: 'Hectorien', verifier: 'Hectorien', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'UTMANING', id: '92265300', author: 'Hectorien', verifier: 'Hectorien', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#33
     { name: 'we can rest now', id: 'uh prob like 2 or smth', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#34
-    { name: 'floater', id: 'uh prob like 2 or smth', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'floater', id: '92118988', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#35
     { name: '8  pm chsallenge', id: 'uh prob like 2 or smth', author: 'ache', verifier: 'xFinleyGD', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
@@ -111,7 +111,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'idk im bored', id: 'uh prob like 2 or smth', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#37
-    { name: 'Wase MasE', id: 'uh prob like 2 or smth', author: 'Cubangaming1', verifier: 'xFinleyGD', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'Wase MasE', id: '92126003', author: 'Cubangaming1', verifier: 'xFinleyGD', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#38
     { name: 'Cobra', id: 'uh prob like 2 or smth', author: 'Cubangaming1', verifier: 'Cubangaming1', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
@@ -123,7 +123,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'shipyp chamber', id: 'uh prob like 2 or smth', author: 'xFinleyGD', verifier: 'ache', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#41
-    { name: '7 CLICK BAERSTARD', id: 'uh prob like 2 or smth', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: '7 CLICK BAERSTARD', id: '92021716', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#42
     { name: 'and or is milk', id: 'uh prob like 2 or smth', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
@@ -132,25 +132,25 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'Bla9y W GO7', id: 'uh prob like 2 or smth', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#44
-    { name: 'maybe the hard', id: 'uh prob like 2 or smth', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'maybe the hard', id: '92003489', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#45
-    { name: 'diego aint clearing', id: 'uh prob like 2 or smth', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'diego aint clearing', id: '92059623', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#46
-    { name: 'Get it Together', id: 'uh prob like 2 or smth', author: 'Shadowpan69420', verifier: 'xFinleyGD', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'Get it Together', id: '92035976', author: 'Shadowpan69420', verifier: 'xFinleyGD', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#47
-    { name: 'actual', id: 'uh prob like 2 or smth', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'actual', id: '92054335', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#48
-    { name: '5  am chsallenge', id: 'uh prob like 2 or smth', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: '5  am chsallenge', id: '92610835', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#49
-    { name: 'hello extended list', id: 'uh prob like 2 or smth', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
+    { name: 'hello extended list', id: '93122627', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' },
     
     //#50
-    { name: 'finlerstackdurrrrrrr', id: 'uh prob like 2 or smth', author: 'Tortellini', verifier: 'Tortellini', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' }
+    { name: 'finlerstackdurrrrrrr', id: '92064848', author: 'Tortellini', verifier: 'Tortellini', videoUrl: 'https://youtu.be/9bZkp7q19f0', type: 'Challenge' }
     
     //don't put a comma at the end of the last level..
   ];
