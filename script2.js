@@ -26,7 +26,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'Pale Ball in the Sky', id: '93235300', author: 'TheBoobBurger', verifier: 'TheBoobBurger', videoUrl: 'https://youtu.be/WOqjU7jKghY', type: 'Challenge' },
 
     
-    { name: 'Q', id: '93045504', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'videourl', type: 'Challenge' },
+    { name: 'Q', id: '93045504', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/mq6NkJ49cso', type: 'Challenge' },
 
     
     { name: 'PEEP', id: '92116696', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'videourl', type: 'Challenge' },
@@ -59,7 +59,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: '4 seconds icremrob', id: '93302229', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/mXbGVM0FXrk', type: 'Challenge' },
 
     
-    { name: 'nfzcls', id: '92036087', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'videourl', type: 'Challenge' },
+    { name: 'nfzcls', id: '92036087', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/ScPaEm-5HME', type: 'Challenge' },
 
     
     { name: 'airborne', id: '92186881', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'videourl', type: 'Challenge' },
@@ -139,13 +139,13 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'maybe the hard', id: '92003489', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'videourl', type: 'Challenge' },
     
  
-    { name: 'diego aint clearing', id: '92059623', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'videourl', type: 'Challenge' },
+    { name: 'diego aint clearing', id: '92059623', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/K_c02JMp48g', type: 'Challenge' },
 
     
     { name: 'Get it Together', id: '92035976', author: 'Shadowpan69420', verifier: 'xFinleyGD', videoUrl: 'videourl', type: 'Challenge' },
     
   
-    { name: 'actual', id: '92054335', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'videourl', type: 'Challenge' },
+    { name: 'actual', id: '92054335', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/xDwMBFhVIk0', type: 'Challenge' },
     
     
     { name: '5  am chsallenge', id: '92610835', author: 'ache', verifier: 'ache', videoUrl: 'videourl', type: 'Challenge' }
