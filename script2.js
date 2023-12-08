@@ -47,7 +47,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'misr beis burgr', id: '92545202', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/ON8q6T2Qmmo', type: 'Challenge' },
 
     
-    { name: 'forgotten', id: '93240831', author: 'rinjello', verifier: 'rinjello', videoUrl: 'videourl', type: 'Challenge' },
+    { name: 'forgotten', id: '93240831', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://youtu.be/2ibS2zQLW98', type: 'Challenge' },
 
     
     { name: 'SPACK', id: '92147966', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/0MmxMthPf04', type: 'Challenge' },
