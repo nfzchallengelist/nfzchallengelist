@@ -2,6 +2,11 @@ window.addEventListener('DOMContentLoaded', function() {
   var levels = [
 
     //#51
+    { name: 'hello extended list', id: '93122627', author: 'ache', verifier: 'ache', videoUrl: 'videourl', type: 'Challenge' },
+    
+    //#50
+    { name: 'finlerstackdurrrrrrr', id: '92064848', author: 'Tortellini', verifier: 'Tortellini', videoUrl: 'videourl', type: 'Challenge' }
+
     { name: 'core bore glore', id: '92126842', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
 
     //#52
