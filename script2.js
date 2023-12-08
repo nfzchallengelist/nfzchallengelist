@@ -148,13 +148,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'actual', id: '92054335', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'videourl', type: 'Challenge' },
     
     //#48
-    { name: '5  am chsallenge', id: '92610835', author: 'ache', verifier: 'ache', videoUrl: 'videourl', type: 'Challenge' },
-    
-    //#49
-    { name: 'hello extended list', id: '93122627', author: 'ache', verifier: 'ache', videoUrl: 'videourl', type: 'Challenge' },
-    
-    //#50
-    { name: 'finlerstackdurrrrrrr', id: '92064848', author: 'Tortellini', verifier: 'Tortellini', videoUrl: 'videourl', type: 'Challenge' }
+    { name: '5  am chsallenge', id: '92610835', author: 'ache', verifier: 'ache', videoUrl: 'videourl', type: 'Challenge' }
     
     //don't put a comma at the end of the last level..
   ];
