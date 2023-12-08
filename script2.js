@@ -110,11 +110,15 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: '8  pm chsallenge', id: '92748808', author: 'ache', verifier: 'xFinleyGD', videoUrl: 'videourl', type: 'Challenge' },
 
     
+    { name: 'JeanPaulEtSesBonAmis', id: '92486595', author: 'Elijaahhh', verifier: 'Elijaahhh', videoUrl: 'videourl', type: 'Challenge' },
+
+    
     { name: 'idk im bored', id: '96256691', author: 'rinjello', verifier: 'rinjello', videoUrl: 'videourl', type: 'Challenge' },
 
     
     { name: 'Wase MasE', id: '92126003', author: 'Cubangaming1', verifier: 'xFinleyGD', videoUrl: 'videourl', type: 'Challenge' },
 
+    
     { name: 'bday challenge', id: '95310118', author: 'Hectorien', verifier: 'Hectorien', videoUrl: 'https://youtu.be/Hgge5EZPT-s?si=I3CGB_ajVy4krWqN', type: 'Challenge' },
 
     
