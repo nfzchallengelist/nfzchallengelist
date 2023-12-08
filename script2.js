@@ -69,13 +69,13 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'KILLER', id: '92146539', author: 'xFinleyGD', verifier: 'xFinelyGD', videoUrl: 'videourl', type: 'Challenge' },
     
     //#23
-    { name: '3 second finley', id: '92021708', author: 'ache', verifier: 'ache', videoUrl: 'videourl', type: 'Challenge' },
+    { name: '3 second finley', id: '92021708', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/g_8hIDEL4rY', type: 'Challenge' },
     
     //#24
-    { name: 'im sorry', id: '92267104', author: 'ache', verifier: 'ache', videoUrl: 'videourl', type: 'Challenge' },
+    { name: 'im sorry', id: '92267104', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/h5IFr2s3IyU', type: 'Challenge' },
     
     //#25
-    { name: 'WOWee', id: '92059623', author: 'ache', verifier: 'ache', videoUrl: 'videourl', type: 'Challenge' },
+    { name: 'WOWee', id: '92059623', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/lVBndG76UdY', type: 'Challenge' },
     
     //#26
     { name: 'owo', id: '92690170', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'videourl', type: 'Challenge' },
@@ -93,7 +93,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: '3 second hector', id: '93411036', author: 'Hectorien', verifier: 'Hectorien', videoUrl: 'videourl', type: 'Challenge' },
     
     //#31
-    { name: 'xobama', id: '92020976', author: 'ache', verifier: 'ache', videoUrl: 'videourl', type: 'Challenge' },
+    { name: 'xobama', id: '92020976', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/Jovw88VaXuY', type: 'Challenge' },
     
     //#32
     { name: 'UTMANING', id: '92265300', author: 'Hectorien', verifier: 'Hectorien', videoUrl: 'videourl', type: 'Challenge' },
@@ -117,7 +117,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'Cobra', id: '92521006', author: 'Cubangaming1', verifier: 'Cubangaming1', videoUrl: 'videourl', type: 'Challenge' },
     
     //#39
-    { name: 'SNITCHes Get sTICHES', id: '93145754', author: 'ache', verifier: 'ache', videoUrl: 'videourl', type: 'Challenge' },
+    { name: 'SNITCHes Get sTICHES', id: '93145754', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'videourl', type: 'Challenge' },
     
     //#40
     { name: 'shipyp chamber', id: '96919048', author: 'xFinleyGD', verifier: 'ache', videoUrl: 'videourl', type: 'Challenge' },
