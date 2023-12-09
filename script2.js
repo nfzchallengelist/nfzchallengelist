@@ -21,10 +21,7 @@ window.addEventListener('DOMContentLoaded', function() {
 
     
     { name: 'SHAMELESS', id: '92635514', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'https://youtu.be/x9zmePZHD9s', type: 'Challenge' },
-
     
-    { name: 'Pale Ball in the Sky', id: '93235300', author: 'TheBoobBurger', verifier: 'TheBoobBurger', videoUrl: 'https://youtu.be/WOqjU7jKghY', type: 'Challenge' },
-
     
     { name: 'Q', id: '93045504', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/mq6NkJ49cso', type: 'Challenge' },
 
@@ -36,6 +33,9 @@ window.addEventListener('DOMContentLoaded', function() {
 
     
     { name: 'never take yourself', id: '92575160', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/lKSkVU1WS2s', type: 'Challenge' },
+
+    
+    { name: 'Pale Ball in the Sky', id: '93235300', author: 'TheBoobBurger', verifier: 'TheBoobBurger', videoUrl: 'https://youtu.be/WOqjU7jKghY', type: 'Challenge' },
 
     
     { name: '3 seconds icremrob', id: '92107867', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/LVHez78-neE', type: 'Challenge' },
