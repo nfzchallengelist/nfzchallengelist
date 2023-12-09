@@ -20,7 +20,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'otakemo dansu', id: '92591135', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'videourl', type: 'Challenge' },
 
     
-    { name: 'SHAMELESS', id: '92635514', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'videourl', type: 'Challenge' },
+    { name: 'SHAMELESS', id: '92635514', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'https://youtu.be/x9zmePZHD9s', type: 'Challenge' },
 
     
     { name: 'Pale Ball in the Sky', id: '93235300', author: 'TheBoobBurger', verifier: 'TheBoobBurger', videoUrl: 'https://youtu.be/WOqjU7jKghY', type: 'Challenge' },
@@ -32,7 +32,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'PEEP', id: '92116696', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'videourl', type: 'Challenge' },
 
     
-    { name: '3 second roxor', id: '92433126', author: 'xFinleyGD', verifier: 'Speedmanman', videoUrl: 'videourl', type: 'Challenge' },
+    { name: '3 second roxor', id: '92433126', author: 'xFinleyGD', verifier: 'Speedmanman', videoUrl: 'https://youtu.be/44PAFVgFRa8', type: 'Challenge' },
 
     
     { name: 'never take yourself', id: '92575160', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/lKSkVU1WS2s', type: 'Challenge' },
@@ -107,7 +107,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'floater', id: '92118988', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'videourl', type: 'Challenge' },
 
     
-    { name: '8  pm chsallenge', id: '92748808', author: 'ache', verifier: 'xFinleyGD', videoUrl: 'videourl', type: 'Challenge' },
+    { name: '8  pm chsallenge', id: '92748808', author: 'ache', verifier: 'xFinleyGD', videoUrl: 'https://youtu.be/rOpTlFJZM8o', type: 'Challenge' },
 
     
     { name: 'JeanPaulEtSesBonAmis', id: '92486595', author: 'Elijaahhh', verifier: 'Elijaahhh', videoUrl: 'videourl', type: 'Challenge' },
