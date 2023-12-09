@@ -58,6 +58,9 @@ window.addEventListener('DOMContentLoaded', function() {
     
     { name: '4 seconds icremrob', id: '93302229', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/mXbGVM0FXrk', type: 'Challenge' },
 
+   
+    { name: 'WOWee', id: '92059623', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/lVBndG76UdY', type: 'Challenge' },
+
     
     { name: 'nfzcls', id: '92036087', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/ScPaEm-5HME', type: 'Challenge' },
 
@@ -75,10 +78,7 @@ window.addEventListener('DOMContentLoaded', function() {
 
     
     { name: 'im sorry', id: '92267104', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/h5IFr2s3IyU', type: 'Challenge' },
-
     
-    { name: 'WOWee', id: '92059623', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/lVBndG76UdY', type: 'Challenge' },
-
     
     { name: 'owo', id: '92690170', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'videourl', type: 'Challenge' },
 
