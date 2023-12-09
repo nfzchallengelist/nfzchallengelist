@@ -83,9 +83,6 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'owo', id: '92690170', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'videourl', type: 'Challenge' },
 
     
-    { name: 'lgbt quiz', id: '93168829', author: 'rinjello', verifier: 'rinjello', videoUrl: 'videourl', type: 'Challenge' },
-
-    
     { name: 'Under Heroine I', id: '92182309', author: 'Mariner', verifier: 'Mariner', videoUrl: 'https://youtu.be/4cK_ZNj7D7c', type: 'Challenge' },
 
     
@@ -114,6 +111,9 @@ window.addEventListener('DOMContentLoaded', function() {
 
     
     { name: 'idk im bored', id: '96256691', author: 'rinjello', verifier: 'rinjello', videoUrl: 'videourl', type: 'Challenge' },
+
+    
+    { name: 'lgbt quiz', id: '93168829', author: 'rinjello', verifier: 'rinjello', videoUrl: 'videourl', type: 'Challenge' },
 
     
     { name: 'Wase MasE', id: '92126003', author: 'Cubangaming1', verifier: 'xFinleyGD', videoUrl: 'videourl', type: 'Challenge' },
