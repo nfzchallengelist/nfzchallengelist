@@ -53,6 +53,9 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'SPACK', id: '92147966', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/0MmxMthPf04', type: 'Challenge' },
 
     
+    { name: 'ON THE DANCE FLOOR', id: '97098955', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'https://youtu.be/26cLLP6iYaU?si=ukqYBCEC52dPYSqK', type: 'Challenge' },
+
+    
     { name: '3 seconds icremrob', id: '92107867', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/LVHez78-neE', type: 'Challenge' },
 
     
