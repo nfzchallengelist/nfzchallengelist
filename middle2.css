@@ -81,6 +81,7 @@ body {
   
   .list-thumbnail {
     display: flex;
+    min-width: 270px;
     justify-content: center;
     width: 270px;
     overflow: hidden;
