@@ -71,13 +71,13 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'nfzcls', id: '92036087', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/ScPaEm-5HME', type: 'Challenge' },
 
     
-    { name: 'airborne', id: '92186881', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'videourl', type: 'Challenge' },
+    { name: 'airborne', id: '92186881', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'https://youtu.be/8bqC1GO6BIs', type: 'Challenge' },
 
     
     { name: '3 second jello', id: '93201795', author: 'rinjello', verifier: 'rinjello', videoUrl: 'videourl', type: 'Challenge' },
 
     
-    { name: 'KILLER', id: '92146539', author: 'xFinleyGD', verifier: 'xFinelyGD', videoUrl: 'videourl', type: 'Challenge' },
+    { name: 'KILLER', id: '92146539', author: 'xFinleyGD', verifier: 'xFinelyGD', videoUrl: 'https://youtu.be/JLkMh7-xyMA', type: 'Challenge' },
 
     
     { name: '3 second finley', id: '92021708', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/g_8hIDEL4rY', type: 'Challenge' },
@@ -137,7 +137,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'Cobra', id: '92521006', author: 'Cubangaming1', verifier: 'Cubangaming1', videoUrl: 'videourl', type: 'Challenge' },
 
     
-    { name: 'SNITCHes Get sTICHES', id: '93145754', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'videourl', type: 'Challenge' },
+    { name: 'SNITCHes Get sTICHES', id: '93145754', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'https://youtu.be/9EFxqiC0v3g', type: 'Challenge' },
 
     
     { name: 'shipyp chamber', id: '96919048', author: 'xFinleyGD', verifier: 'ache', videoUrl: 'videourl', type: 'Challenge' },
@@ -149,7 +149,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'and or is milk', id: '93085309', author: 'rinjello', verifier: 'rinjello', videoUrl: 'videourl', type: 'Challenge' },
     
    
-    { name: 'Bla9y W GO7', id: '93212972', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'videourl', type: 'Challenge' },
+    { name: 'Bla9y W GO7', id: '93212972', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'https://youtu.be/NHoW-xtndmY', type: 'Challenge' },
     
 
     { name: 'maybe the hard', id: '92003489', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'videourl', type: 'Challenge' },
