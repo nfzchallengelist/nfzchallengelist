@@ -29,9 +29,6 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'PEEP', id: '92116696', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'videourl', type: 'Challenge' },
 
     
-    { name: '3 second roxor', id: '92433126', author: 'xFinleyGD', verifier: 'Speedmanman', videoUrl: 'https://youtu.be/44PAFVgFRa8', type: 'Challenge' },
-
-    
     { name: 'Pale Ball in the Sky', id: '93235300', author: 'TheBoobBurger', verifier: 'TheBoobBurger', videoUrl: 'https://youtu.be/WOqjU7jKghY', type: 'Challenge' },
 
     
@@ -39,6 +36,9 @@ window.addEventListener('DOMContentLoaded', function() {
 
     
     { name: 'misr beis burgr', id: '92545202', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/ON8q6T2Qmmo', type: 'Challenge' },
+
+    
+    { name: '3 second roxor', id: '92433126', author: 'xFinleyGD', verifier: 'Speedmanman', videoUrl: 'https://youtu.be/44PAFVgFRa8', type: 'Challenge' },
 
     
     { name: 'ACHE', id: '92030106', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/Pqk_4qR_5-M', type: 'Challenge' },
