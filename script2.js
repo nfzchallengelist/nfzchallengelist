@@ -80,6 +80,9 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: '3 second jello', id: '93201795', author: 'rinjello', verifier: 'rinjello', videoUrl: 'videourl', type: 'Challenge' },
 
     
+    { name: 'The Frozen Crypt', id: '95212065', author: 'Hectorien', verifier: 'HyetalL', videoUrl: 'https://youtu.be/0pSzZDgeaCM', type: 'Challenge' },
+
+    
     { name: 'KILLER', id: '92146539', author: 'xFinleyGD', verifier: 'xFinelyGD', videoUrl: 'https://youtu.be/JLkMh7-xyMA', type: 'Challenge' },
 
     
@@ -111,9 +114,6 @@ window.addEventListener('DOMContentLoaded', function() {
 
     
     { name: 'UTMANING', id: '92265300', author: 'Hectorien', verifier: 'Hectorien', videoUrl: 'videourl', type: 'Challenge' },
-
-    
-    { name: 'The Frozen Crypt', id: '95212065', author: 'Hectorien', verifier: 'HyetalL', videoUrl: 'https://youtu.be/0pSzZDgeaCM', type: 'Challenge' },
 
     
     { name: 'we can rest now', id: '97129065', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/CvX5aM0B3yg', type: 'Challenge' },
