@@ -182,6 +182,9 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: '5  am chsallenge', id: '92610835', author: 'ache', verifier: 'ache', videoUrl: 'videourl', type: 'Challenge' },
 
 
+    { name: 'up and down mode', id: '97415982', author: 'ache', verifier: 'ache', videoUrl: 'videourl', type: 'Challenge' },
+
+    
     { name: 'hello extended list', id: '93122627', author: 'ache', verifier: 'ache', videoUrl: 'videourl', type: 'Challenge' },
 
     
