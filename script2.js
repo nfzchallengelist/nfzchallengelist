@@ -74,9 +74,6 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'Leaves', id: '97306244', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'videourl', type: 'Challenge' },
 
     
-    { name: 'nfzcls', id: '92036087', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/ScPaEm-5HME', type: 'Challenge' },
-
-    
     { name: 'airborne', id: '92186881', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'https://youtu.be/8bqC1GO6BIs', type: 'Challenge' },
 
     
@@ -87,6 +84,9 @@ window.addEventListener('DOMContentLoaded', function() {
 
     
     { name: 'KILLER', id: '92146539', author: 'xFinleyGD', verifier: 'xFinelyGD', videoUrl: 'https://youtu.be/JLkMh7-xyMA', type: 'Challenge' },
+
+    
+    { name: 'nfzcls', id: '92036087', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/ScPaEm-5HME', type: 'Challenge' },
 
     
     { name: '3 second finley', id: '92021708', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/g_8hIDEL4rY', type: 'Challenge' },
