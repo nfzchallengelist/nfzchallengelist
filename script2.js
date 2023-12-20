@@ -235,6 +235,9 @@ window.addEventListener('DOMContentLoaded', function() {
     
     { name: 'TheWholeWorldAndYou', id: '92081453', author: 'Shadowpan69420', verifier: 'Shadowpan69420', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
 
+
+    { name: '2 POINT 2 IS OUT', id: '97457554', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
+
     
     { name: 'dohiyo is dead', id: '92096970', author: 'Shadowpan69420 & xFinleyGD', verifier: 'Shadowpan69420', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
 
