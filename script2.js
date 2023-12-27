@@ -194,6 +194,9 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'up and down mode', id: '97415982', author: 'ache', verifier: 'ache', videoUrl: 'videourl', type: 'Challenge' },
 
     
+    { name: 'they call me messer', id: '97716826', author: 'Cubangaming1', verifier: 'Cubangaming1', videoUrl: 'videourl', type: 'Challenge' },
+
+    
     { name: 'hello extended list', id: '93122627', author: 'ache', verifier: 'ache', videoUrl: 'videourl', type: 'Challenge' },
 
     
