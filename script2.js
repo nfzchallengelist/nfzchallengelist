@@ -218,6 +218,9 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'microclick hell', id: '92127106', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
 
 
+    { name: 'los demonicos extrem', id: '97595421', author: 'Hectorien', verifier: 'Hectorien', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
+
+
     { name: 'gurkin', id: '95873564', author: 'jaundiceplier', verifier: 'bloxy', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
 
     
