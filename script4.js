@@ -1,6 +1,8 @@
 window.addEventListener('DOMContentLoaded', function() {
   var levels = [
     //top row is #101 on the list
+        
+    { name: 'top 1 easy', id: '92591808', author: 'idkache', verifier: 'idkache', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
     
     { name: 'hardest challenbge', id: '92593859', author: 'TortellinniT', verifier: 'TortellinniT', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
     
