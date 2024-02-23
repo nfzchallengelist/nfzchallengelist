@@ -128,6 +128,9 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'we can rest now', id: '97129065', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/CvX5aM0B3yg', type: 'Challenge' },
 
     
+    { name: 'hello legacy list', id: '97793177', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/GHjVik7TLq0', type: 'Challenge' },
+
+    
     { name: 'im sorry', id: '92267104', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/h5IFr2s3IyU', type: 'Challenge' },
     
     
@@ -296,10 +299,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'top 1 easy', id: '92591808', author: 'idkache', verifier: 'idkache', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
 
     
-    { name: 'hardest challenbge', id: '92593859', author: 'TortellinniT', verifier: 'TortellinniT', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
-
-    
-    { name: 'fcuk you ben', id: '97155742', author: 'idkache', verifier: 'idkache', videoUrl: 'https://youtu.be/t_WmytBqquM', type: 'Challenge' }
+    { name: 'hardest challenbge', id: '92593859', author: 'TortellinniT', verifier: 'TortellinniT', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' }
     
     //don't put a comma at the end of the last level..
     
