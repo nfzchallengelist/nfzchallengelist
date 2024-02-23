@@ -17,7 +17,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'Q', id: '93045504', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/mq6NkJ49cso', type: 'Challenge' },
 
 
-    { name: 'CYBERGIRL', id: '101377264', author: 'ache', verifier: 'ache', videoUrl: 'videourl', type: 'Challenge' },
+    { name: 'CYBERGIRL', id: '101377264', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/7lCxgFR1HrY', type: 'Challenge' },
 
     
     { name: 'otakemo dansu', id: '92591135', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'videourl', type: 'Challenge' },
