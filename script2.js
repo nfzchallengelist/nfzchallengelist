@@ -37,6 +37,9 @@ window.addEventListener('DOMContentLoaded', function() {
 
     { name: 'mc Inaw RT quT22', id: '97388724', author: 'idkache', verifier: 'idkache', videoUrl: 'videourl', type: 'Challenge' },
     
+
+    { name: 'Dantes Inferno', id: '99683393', author: 'Mariner', verifier: 'Mariner', videoUrl: 'https://youtu.be/eq6PGWcyUSg', type: 'Challenge' },
+    
     
     { name: 'misr beis burgr', id: '92545202', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/ON8q6T2Qmmo', type: 'Challenge' },
 
@@ -296,10 +299,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'NoFinleyZone Challen', id: '92026897', author: 'Greysonn', verifier: 'Greysonn', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
 
     
-    { name: 'top 1 easy', id: '92591808', author: 'idkache', verifier: 'idkache', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
-
-    
-    { name: 'hardest challenbge', id: '92593859', author: 'TortellinniT', verifier: 'TortellinniT', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' }
+    { name: 'top 1 easy', id: '92591808', author: 'idkache', verifier: 'idkache', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' }
     
     //don't put a comma at the end of the last level..
     
