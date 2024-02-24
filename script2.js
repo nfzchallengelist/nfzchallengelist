@@ -5,9 +5,6 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'MGSSMITMCHASTSEBBTGA', id: 'ask elijah loll', author: 'Elijaahhh', verifier: 'Elijaahhh', videoUrl: 'https://youtu.be/Ih6UNtTfGT8', type: 'Challenge' },
 
     
-    { name: 'Streamline', id: '95921211', author: 'HyetalL', verifier: 'ache', videoUrl: 'https://youtu.be/T9U4BRE2QYM', type: 'Challenge' },
-
-    
     { name: '3Si is Dead', id: '95573883', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/xyI-hFyE47I', type: 'Challenge' },
 
     
@@ -18,12 +15,15 @@ window.addEventListener('DOMContentLoaded', function() {
 
 
     { name: 'CYBERGIRL', id: '101377264', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/7lCxgFR1HrY', type: 'Challenge' },
+  
+    
+    { name: 'never take yourself', id: '92575160', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/lKSkVU1WS2s', type: 'Challenge' },
+
+    
+    { name: 'Streamline', id: '95921211', author: 'HyetalL', verifier: 'ache', videoUrl: 'https://youtu.be/T9U4BRE2QYM', type: 'Challenge' },
 
     
     { name: 'otakemo dansu', id: '92591135', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'videourl', type: 'Challenge' },
-
-    
-    { name: 'never take yourself', id: '92575160', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/lKSkVU1WS2s', type: 'Challenge' },
 
     
     { name: 'PEEP', id: '92116696', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'videourl', type: 'Challenge' },
