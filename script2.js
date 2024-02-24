@@ -121,6 +121,9 @@ window.addEventListener('DOMContentLoaded', function() {
     
     { name: '3 second hector', id: '93411036', author: 'Hectorien', verifier: 'Hectorien', videoUrl: 'https://youtu.be/HUO1LtLDpIU', type: 'Challenge' },
 
+
+    { name: 'Acheron Noclip 2', id: '98047767', author: 'Mariner', verifier: 'Mariner', videoUrl: 'https://youtu.be/JAyO3mzq7Yg', type: 'Challenge' },
+    
     
     { name: 'xobama', id: '92020976', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/Jovw88VaXuY', type: 'Challenge' },
 
@@ -195,7 +198,10 @@ window.addEventListener('DOMContentLoaded', function() {
     
    
     { name: 'fauxureta', id: '92003404', author: 'TortellinniT', verifier: 'TortellinniT', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
-
+   
+    
+    { name: 'the Thingimajig', id: '101440099', author: 'idkache', verifier: 'idkache', videoUrl: 'https://youtu.be/sSCXBO-7470', type: 'Challenge' },
+    
        
     { name: 'grandma parkinson', id: '101391857', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/C6dyWA2V-sI', type: 'Challenge' },
 
@@ -234,6 +240,9 @@ window.addEventListener('DOMContentLoaded', function() {
 
     
     { name: 'microclick hell', id: '92127106', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
+
+    
+    { name: 'spider but not', id: '98051806', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/JR9r4RX6o6E', type: 'Challenge' },
 
 
     { name: 'los demonicos extrem', id: '97595421', author: 'Hectorien', verifier: 'Hectorien', videoUrl: 'https://youtu.be/qJ1P6tv0YbI', type: 'Challenge' },
