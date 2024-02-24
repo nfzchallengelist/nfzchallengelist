@@ -80,7 +80,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: '4 seconds icremrob', id: '93302229', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/mXbGVM0FXrk', type: 'Challenge' },
     
     
-    { name: 'Leaves', id: '97306244', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'videourl', type: 'Challenge' },
+    { name: 'Leaves', id: '97306244', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'https://www.youtube.com/watch?v=PpOP9tZtmmY', type: 'Challenge' },
 
     
     { name: 'airborne', id: '92186881', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'https://youtu.be/8bqC1GO6BIs', type: 'Challenge' },
