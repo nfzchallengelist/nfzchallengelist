@@ -56,7 +56,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'Shinu', id: '94807515', author: 'Mariner', verifier: 'Mariner', videoUrl: 'https://www.youtube.com/watch?v=v-kjDdP-CKg', type: 'Challenge' },
 
     
-    { name: 'soarer', id: '97265119', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'videourl', type: 'Challenge' },
+    { name: 'soarer', id: '97265119', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'https://www.youtube.com/watch?v=Dpk1yA5o5ps', type: 'Challenge' },
 
     
     { name: 'forgotten', id: '93240831', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://youtu.be/2ibS2zQLW98', type: 'Challenge' },
@@ -71,7 +71,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: '3 seconds icremrob', id: '92107867', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/LVHez78-neE', type: 'Challenge' },
 
     
-    { name: 'Based Penguins', id: '92024672', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'videourl', type: 'Challenge' },
+    { name: 'Based Penguins', id: '92024672', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'https://www.youtube.com/watch?v=xOTNT1yq4wI', type: 'Challenge' },
     
     
     { name: 'WOWee', id: '92059623', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/lVBndG76UdY', type: 'Challenge' },
@@ -89,7 +89,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'dohiyoer is dead', id: '97448225', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/DvfybjTpRkI', type: 'Challenge' },
 
     
-    { name: '3 second jello', id: '93201795', author: 'rinjello', verifier: 'rinjello', videoUrl: 'videourl', type: 'Challenge' },
+    { name: '3 second jello', id: '93201795', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://www.youtube.com/watch?v=oUG37s7jnBY', type: 'Challenge' },
 
     
     { name: 'The Frozen Crypt', id: '95212065', author: 'Hectorien', verifier: 'HyetalL', videoUrl: 'https://youtu.be/0pSzZDgeaCM', type: 'Challenge' },
@@ -149,13 +149,13 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'JeanPaulEtSesBonAmis', id: '92486595', author: 'Elijaahhh', verifier: 'Elijaahhh', videoUrl: 'videourl', type: 'Challenge' },
 
     
-    { name: 'idk im bored', id: '96256691', author: 'rinjello', verifier: 'rinjello', videoUrl: 'videourl', type: 'Challenge' },
+    { name: 'idk im bored', id: '96256691', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://www.youtube.com/watch?v=xChN8VjJA7A', type: 'Challenge' },
 
 
     { name: 'Devilish Alcoholic', id: '101383870', author: 'HyetalL', verifier: 'HyetalL', videoUrl: 'https://youtu.be/hhseQlpFHe4', type: 'Challenge' },
     
     
-    { name: 'lgbt quiz', id: '93168829', author: 'rinjello', verifier: 'rinjello', videoUrl: 'videourl', type: 'Challenge' },
+    { name: 'lgbt quiz', id: '93168829', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://www.youtube.com/watch?v=eWegyQUVyuI', type: 'Challenge' },
 
     
     { name: 'Wase MasE', id: '92126003', author: 'Cubangaming1', verifier: 'xFinleyGD', videoUrl: 'videourl', type: 'Challenge' },
@@ -173,7 +173,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: '7 CLICK BAERSTARD', id: '92021716', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'videourl', type: 'Challenge' },
     
 
-    { name: 'and or is milk', id: '93085309', author: 'rinjello', verifier: 'rinjello', videoUrl: 'videourl', type: 'Challenge' },
+    { name: 'and or is milk', id: '93085309', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://www.youtube.com/watch?v=cI5Ux3MQcwc', type: 'Challenge' },
     
    
     { name: 'Bla9y W GO7', id: '93212972', author: 'xFinleyGD', verifier: 'xFinleyGD', videoUrl: 'https://youtu.be/NHoW-xtndmY', type: 'Challenge' },
@@ -212,7 +212,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'finlerstackdurrrrrrr', id: '92064848', author: 'Tortellini', verifier: 'Tortellini', videoUrl: 'videourl', type: 'Challenge' },
     
     
-    { name: '5  am chsallenge', id: '92610835', author: 'ache', verifier: 'ache', videoUrl: 'videourl', type: 'Challenge' },
+    { name: '5  am chsallenge', id: '92610835', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/J2tZdz6rQHk', type: 'Challenge' },
 
 
     { name: 'up and down mode', id: '97415982', author: 'ache', verifier: 'ache', videoUrl: 'videourl', type: 'Challenge' },
@@ -230,7 +230,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'shipyp chamber', id: '96919048', author: 'xFinleyGD', verifier: 'ache', videoUrl: 'videourl', type: 'Challenge' },
 
     
-    { name: 'switchy twitchy', id: '95259509', author: 'rinjello', verifier: 'rinjello', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
+    { name: 'switchy twitchy', id: '95259509', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://www.youtube.com/watch?v=uWxLqb5CNVI', type: 'Challenge' },
 
     
     { name: 'Sonic Wave Infinity', id: '97128437', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/Zv-vzQP4JRo', type: 'Challenge' },
