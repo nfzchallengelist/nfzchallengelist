@@ -23,13 +23,13 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'Streamline', id: '95921211', author: 'HyetalL', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/iTzSRvHPsEo', type: 'Challenge' },
 
     
-    { name: 'otakemo dansu', id: '92591135', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'videourl', type: 'Challenge' },
+    { name: 'otakemo dansu', id: '92591135', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/dy5XfrS6ngw', type: 'Challenge' },
 
     
     { name: 'PEEP', id: '92116696', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'videourl', type: 'Challenge' },
 
     
-    { name: 'Pale Ball in the Sky', id: '93235300', author: 'TheBoobBurger', verifier: 'TheBoobBurger', videoUrl: 'https://youtu.be/WOqjU7jKghY', type: 'Challenge' },
+    { name: 'Pale Ball in the Sky', id: '93235300', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://youtu.be/WOqjU7jKghY', type: 'Challenge' },
 
     
     { name: '1 seconds ache', id: '93302141', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/vmCTbD8g5Hc', type: 'Challenge' },
