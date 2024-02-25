@@ -205,6 +205,9 @@ window.addEventListener('DOMContentLoaded', function() {
 
     { name: 'Dohiyoer', id: '97334410', author: 'OWOSHA', verifier: 'OWOSHA', videoUrl: 'videourl', type: 'Challenge' },
 
+
+    { name: 'check general', id: '97683510', author: 'DJKhaledNum1Fan', verifier: 'DJKhaledNum1Fan', videoUrl: 'https://youtu.be/UldAfQ9zsiw', type: 'Challenge' },
+
     
     { name: 'Doggie Challenge 22', id: '97567598', author: 'Mariner', verifier: 'Mariner', videoUrl: 'videourl', type: 'Challenge' },
     
@@ -296,10 +299,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'EXTREEME DEMON', id: '97522511', author: 'idkache', verifier: 'idkache', videoUrl: 'https://cdn.discordapp.com/attachments/1124098723950104697/1187139784427196568/EXTREEME_DEMON.mp4?ex=659f0794&is=658c9294&hm=1a8f017bcc97280a767130b933416b17300301e4efa81ee20c8d60ed929d9b44&', type: 'Challenge' },
 
     
-    { name: 'dohiyo is dead', id: '92096970', author: 'Shadowpan69420 & iamfinleyy', verifier: 'Shadowpan69420', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
-
-    
-    { name: 'the first ever', id: '92002834', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' }
+    { name: 'dohiyo is dead', id: '92096970', author: 'Shadowpan69420 & iamfinleyy', verifier: 'Shadowpan69420', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' }
     
     //don't put a comma at the end of the last level..
     
