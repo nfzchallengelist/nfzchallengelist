@@ -175,6 +175,9 @@ window.addEventListener('DOMContentLoaded', function() {
     
     { name: 'Cobra', id: '92521006', author: 'Cubangaming1', verifier: 'Cubangaming1', videoUrl: 'https://youtu.be/njChUxU7418', type: 'Challenge' },
 
+
+    { name: 'a m level', id: '92521006', author: 'ache', verifier: 'ache', videoUrl: 'https://youtu.be/ZPOzJATQO2k', type: 'Challenge' },
+    
     
     { name: 'SNITCHes Get sTICHES', id: '93145754', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/9EFxqiC0v3g', type: 'Challenge' },
     
@@ -296,10 +299,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: '2 POINT 2 IS OUT', id: '97457554', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
 
 
-    { name: 'EXTREEME DEMON', id: '97522511', author: 'idkache', verifier: 'idkache', videoUrl: 'https://cdn.discordapp.com/attachments/1124098723950104697/1187139784427196568/EXTREEME_DEMON.mp4?ex=659f0794&is=658c9294&hm=1a8f017bcc97280a767130b933416b17300301e4efa81ee20c8d60ed929d9b44&', type: 'Challenge' },
-
-    
-    { name: 'dohiyo is dead', id: '92096970', author: 'Shadowpan69420 & iamfinleyy', verifier: 'Shadowpan69420', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' }
+    { name: 'EXTREEME DEMON', id: '97522511', author: 'idkache', verifier: 'idkache', videoUrl: 'videourl', type: 'Challenge' }
     
     //don't put a comma at the end of the last level..
     
