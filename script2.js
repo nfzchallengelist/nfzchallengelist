@@ -2,6 +2,9 @@ window.addEventListener('DOMContentLoaded', function() {
   var levels = [
     //THE LIST !
     
+    { name: 'silly goober area', id: '101574741', author: 'lunatism & iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/OoO4I_R3F5k', type: 'Challenge' },
+    
+    
     { name: 'MGSSMITMCHASTSEBBTGA', id: 'ask elijah loll', author: 'Elijaahhh', verifier: 'Elijaahhh', videoUrl: 'https://youtu.be/Ih6UNtTfGT8', type: 'Challenge' },
 
     
@@ -296,10 +299,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'hi but not hi by krm', id: '93350188', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/EgUD8EYINrI', type: 'Challenge' },
 
      
-    { name: 'if i were a fish', id: '93197387', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/270zfAHp_Vg', type: 'Challenge' },
-
-    
-    { name: '2  am chsallenge', id: '92491018', author: 'lunatism', verifier: 'lunatism', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' }
+    { name: 'if i were a fish', id: '93197387', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/270zfAHp_Vg', type: 'Challenge' }
     
     //don't put a comma at the end of the last level..
     
