@@ -35,9 +35,6 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'monter ONE HUNDRED', id: '98201570', author: 'bloxy', verifier: 'bloxy', videoUrl: 'https://www.youtube.com/watch?v=hhseQlpFHe4', type: 'Challenge' },
 
     
-    { name: 'PEEP', id: '92116696', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/JfLPnRfMVRE', type: 'Challenge' },
-
-    
     { name: 'Pale Ball in the Sky', id: '93235300', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://youtu.be/WOqjU7jKghY', type: 'Challenge' },
 
     
@@ -48,7 +45,10 @@ window.addEventListener('DOMContentLoaded', function() {
     
 
     { name: 'Dantes Inferno', id: '99683393', author: 'Mariner', verifier: 'Mariner', videoUrl: 'https://youtu.be/eq6PGWcyUSg', type: 'Challenge' },
-    
+
+
+    { name: 'PEEP', id: '92116696', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/JfLPnRfMVRE', type: 'Challenge' },
+
     
     { name: 'misr beis burgr', id: '92545202', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/ON8q6T2Qmmo', type: 'Challenge' },
 
@@ -150,8 +150,9 @@ window.addEventListener('DOMContentLoaded', function() {
 
     
     { name: 'we can rest now', id: '97129065', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/CvX5aM0B3yg', type: 'Challenge' },
-
-
+    
+// EXTENDED LIST
+    
     { name: 'lgbt quiz', id: '93168829', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://www.youtube.com/watch?v=eWegyQUVyuI', type: 'Challenge' },
 
     
