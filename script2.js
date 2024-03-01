@@ -56,7 +56,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'ACHE', id: '92030106', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/Pqk_4qR_5-M', type: 'Challenge' },
 
     
-    { name: 'SHAMELESS', id: '92635514', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/x9zmePZHD9s', type: 'Challenge' },
+    { name: 'SHAMELESS', id: '92635514', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/PZ6IKjNG_ac', type: 'Challenge' },
 
     
     { name: 'Shinu', id: '94807515', author: 'Mariner', verifier: 'Mariner', videoUrl: 'https://www.youtube.com/watch?v=v-kjDdP-CKg', type: 'Challenge' },
