@@ -303,7 +303,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'gurkin', id: '95873564', author: 'jaundiceplier', verifier: 'bloxy', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' }
   
     
-    //don't put a comma at the end of the last level..
+    //don't put a comma at the end of the last level... or you will Die !!
     
   ];
 
