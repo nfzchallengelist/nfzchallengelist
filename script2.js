@@ -303,7 +303,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'spider but not', id: '98051806', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/JR9r4RX6o6E', type: 'Challenge' }
   
     
-    //don't put a comma at the end of the last level... or you will Die !!
+    //don't put a comma at the end of the last level... or you will Die !!!
     
   ];
 
