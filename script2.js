@@ -151,10 +151,10 @@ window.addEventListener('DOMContentLoaded', function() {
     
     { name: 'xobama', id: '92020976', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/Jovw88VaXuY', type: 'Challenge' },
 
-    
+ // EXTENDED LIST
+
     { name: 'UTMANING', id: '92265300', author: 'Hectorien', verifier: 'Hectorien', videoUrl: 'https://youtu.be/7wgGPKZvCyQ', type: 'Challenge' },
 
-     // EXTENDED LIST
     
     { name: 'we can rest now', id: '97129065', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/CvX5aM0B3yg', type: 'Challenge' },
     
