@@ -305,7 +305,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'microclick hell', id: '92127106', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' }
   
     
-    //don't put a comma at the end of the last level... or you will Die !!!
+    //don't put a comma at the end of the last level... or you will Die !!!!
     
   ];
 
