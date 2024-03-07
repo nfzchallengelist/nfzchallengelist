@@ -168,6 +168,9 @@ window.addEventListener('DOMContentLoaded', function() {
 
     
     { name: 'im sorry', id: '92267104', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/h5IFr2s3IyU', type: 'Challenge' },
+
+
+    { name: 'summit 3', id: '101829250', author: 'Zkasper', verifier: 'Zkasper', videoUrl: 'https://www.youtube.com/watch?v=iKiZZNOkWSs, type: 'Challenge' },
     
     
     { name: 'floater', id: '92118988', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/QXjNe8sHeUk', type: 'Challenge' },
@@ -299,10 +302,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'finley ohio trip', id: '92202872', author: 'TortellinniT', verifier: 'TortellinniT', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
 
 
-    { name: 'jundice 2', id: '95815064', author: 'jaundiceplier', verifier: 'bloxy', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
-
-    
-    { name: 'microclick hell', id: '92127106', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' }
+    { name: 'jundice 2', id: '95815064', author: 'jaundiceplier', verifier: 'bloxy', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' }
   
     
     //don't put a comma at the end of the last level... or you will Die !!!!
