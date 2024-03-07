@@ -153,7 +153,6 @@ window.addEventListener('DOMContentLoaded', function() {
     
 
     // EXTENDED LIST
-
     
     { name: 'xobama', id: '92020976', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/Jovw88VaXuY', type: 'Challenge' },
 
