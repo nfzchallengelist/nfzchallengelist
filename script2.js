@@ -28,6 +28,9 @@ window.addEventListener('DOMContentLoaded', function() {
     
     { name: 'never take yourself', id: '92575160', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/lKSkVU1WS2s', type: 'Challenge' },
 
+
+    { name: 'Dollr 78', id: '102123679', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/U5Kc4gwLNxI', type: 'Challenge' },
+    
     
     { name: 'Streamline', id: '95921211', author: 'HyetalL', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/iTzSRvHPsEo', type: 'Challenge' },
 
@@ -147,11 +150,11 @@ window.addEventListener('DOMContentLoaded', function() {
 
 
     { name: 'Acheron Noclip 2', id: '98047767', author: 'Mariner', verifier: 'Mariner', videoUrl: 'https://youtu.be/JAyO3mzq7Yg', type: 'Challenge' },
-    
+
+     // EXTENDED LIST
     
     { name: 'MudPuddle', id: '101815269', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/HYdo1PPwISY', type: 'Challenge' },   
-
-    // EXTENDED LIST
+    
     
     { name: 'xobama', id: '92020976', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/Jovw88VaXuY', type: 'Challenge' },
 
@@ -297,10 +300,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'if i were a rock', id: '101571607', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/W2tEmwDKX2I', type: 'Challenge' },
 
 
-    { name: '3 second REAL', id: '97128437', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/plNiGf-Bnl8', type: 'Challenge' },
-    
-    
-    { name: 'finley ohio trip', id: '92202872', author: 'TortellinniT', verifier: 'TortellinniT', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' }
+    { name: '3 second REAL', id: '97128437', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/plNiGf-Bnl8', type: 'Challenge' }
   
     
     //don't put a comma at the end of the last level... or you will Die !!!!
