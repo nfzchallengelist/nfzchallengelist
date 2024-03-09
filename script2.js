@@ -187,6 +187,9 @@ window.addEventListener('DOMContentLoaded', function() {
 
     
     { name: 'Miss Tick', id: '97238047', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/RyvLx7MLB8k', type: 'Challenge' },
+
+
+    { name: 'WeetabiX', id: '101917735', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/p5Xt2inViRQ?si=7KlyFLkudnfAwIBu', type: 'Challenge' },
     
     
     { name: '24hr iamfinley chalk', id: '100976162', author: 'DrigeOrDraig', verifier: 'DrigeOrDraig', videoUrl: 'https://youtu.be/xke2YYdLQJU', type: 'Challenge' },
@@ -297,10 +300,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: '3 second REAL', id: '97128437', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/plNiGf-Bnl8', type: 'Challenge' },
     
     
-    { name: 'finley ohio trip', id: '92202872', author: 'TortellinniT', verifier: 'TortellinniT', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
-
-
-    { name: 'jundice 2', id: '95815064', author: 'jaundiceplier', verifier: 'bloxy', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' }
+    { name: 'finley ohio trip', id: '92202872', author: 'TortellinniT', verifier: 'TortellinniT', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' }
   
     
     //don't put a comma at the end of the last level... or you will Die !!!!
