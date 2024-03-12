@@ -297,7 +297,10 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'if i were a rock', id: '101571607', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/W2tEmwDKX2I', type: 'Challenge' },
 
 
-    { name: '3 second REAL', id: '97128437', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/plNiGf-Bnl8', type: 'Challenge' }
+    { name: '3 second REAL', id: '97128437', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/plNiGf-Bnl8', type: 'Challenge' },
+
+   
+    { name: 'finley ohio trip', id: '92202872', author: 'TortellinniT', verifier: 'TortellinniT', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' }
   
     
     //don't put a comma at the end of the last level... or you will Die !!!!
