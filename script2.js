@@ -146,15 +146,12 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: '3 second hector', id: '93411036', author: 'Hectorien', verifier: 'Hectorien', videoUrl: 'https://youtu.be/HUO1LtLDpIU', type: 'Challenge' },
 
 
-    { name: '3 second finley', id: '92021708', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/g_8hIDEL4rY', type: 'Challenge' },
-
-
     { name: 'Acheron Noclip 2', id: '98047767', author: 'Mariner', verifier: 'Mariner', videoUrl: 'https://youtu.be/JAyO3mzq7Yg', type: 'Challenge' },
 
-     // EXTENDED LIST
     
     { name: 'MudPuddle', id: '101815269', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/HYdo1PPwISY', type: 'Challenge' },   
     
+     // EXTENDED LIST
     
     { name: 'xobama', id: '92020976', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/Jovw88VaXuY', type: 'Challenge' },
 
