@@ -197,8 +197,11 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'Miss Tick', id: '97238047', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/RyvLx7MLB8k', type: 'Challenge' },
 
 
-    { name: 'WeetabiX', id: '101917735', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/p5Xt2inViRQ?si=7KlyFLkudnfAwIBu', type: 'Challenge' },
+    { name: 'WeetabiX', id: '101917735', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/d6BpqdoBc1Q', type: 'Challenge' },
     
+
+    { name: 'Elijahs Number', id: '102190066 ', author: 'iamfinleyy', verifier: 'BekahFan82', videoUrl: 'https://youtu.be/p5Xt2inViRQ?si=7KlyFLkudnfAwIBu', type: 'Challenge' },
+
     
     { name: '24hr iamfinley chalk', id: '100976162', author: 'DrigeOrDraig', verifier: 'DrigeOrDraig', videoUrl: 'https://youtu.be/xke2YYdLQJU', type: 'Challenge' },
     
@@ -299,10 +302,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'core bore glore', id: '92126842', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
     
     
-    { name: 'shipyp chamber', id: '96919048', author: 'iamfinleyy', verifier: 'lunatism', videoUrl: 'videourl', type: 'Challenge' },
-
-    
-    { name: 'switchy twitchy', id: '95259509', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://www.youtube.com/watch?v=uWxLqb5CNVI', type: 'Challenge' }
+    { name: 'shipyp chamber', id: '96919048', author: 'iamfinleyy', verifier: 'lunatism', videoUrl: 'videourl', type: 'Challenge' }
   
     
     //don't put a comma at the end of the last level... or you will Die !!!!
