@@ -195,17 +195,20 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'Devilish Alcoholic', id: '101383870', author: 'HyetalL', verifier: 'HyetalL', videoUrl: 'https://youtu.be/MeLtGa4o7Dc?si=IMbpEBYpT9VR37GA', type: 'Challenge' },
 
     
+    { name: 'Youll Be Gone', id: '102422448', author: 'Speedmanman', verifier: 'Speedmanman', videoUrl: 'https://youtu.be/FNIYjsYeu4E', type: 'Challenge' },
+
+    
     { name: 'Miss Tick', id: '97238047', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/RyvLx7MLB8k', type: 'Challenge' },
 
 
-    { name: 'WeetabiX', id: '101917735', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/d6BpqdoBc1Q', type: 'Challenge' },
+    { name: 'WeetabiX', id: '101917735', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/p5Xt2inViRQ', type: 'Challenge' },
     
 
-    { name: 'Elijahs Number', id: '102190066 ', author: 'iamfinleyy', verifier: 'BekahFan82', videoUrl: 'https://youtu.be/p5Xt2inViRQ?si=7KlyFLkudnfAwIBu', type: 'Challenge' },
+    { name: 'Elijahs Number', id: '102190066', author: 'iamfinleyy', verifier: 'BekahFan82', videoUrl: 'https://youtu.be/d6BpqdoBc1Q', type: 'Challenge' },
 
     
     { name: '24hr iamfinley chalk', id: '100976162', author: 'DrigeOrDraig', verifier: 'DrigeOrDraig', videoUrl: 'https://youtu.be/xke2YYdLQJU', type: 'Challenge' },
-    
+
     
     { name: 'Wase MasE', id: '92126003', author: 'Cubangaming1', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/gJfQNreLhBU', type: 'Challenge' },
 
@@ -297,10 +300,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'they call me messer', id: '97716826', author: 'Cubangaming1', verifier: 'Cubangaming1', videoUrl: 'https://youtu.be/rD3Mo59_XTw', type: 'Challenge' },
 
     
-    { name: 'hello extended list', id: '93122627', author: 'lunatism', verifier: 'lunatism', videoUrl: 'videourl', type: 'Challenge' },
-
-    
-    { name: 'core bore glore', id: '92126842', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' }
+    { name: 'hello extended list', id: '93122627', author: 'lunatism', verifier: 'lunatism', videoUrl: 'videourl', type: 'Challenge' }
   
     
     //don't put a comma at the end of the last level... or you will Die !!!!
