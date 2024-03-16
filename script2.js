@@ -201,7 +201,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'Devilish Alcoholic', id: '101383870', author: 'HyetalL', verifier: 'HyetalL', videoUrl: 'https://youtu.be/MeLtGa4o7Dc?si=IMbpEBYpT9VR37GA', type: 'Challenge' },
 
     
-    { name: 'Youll Be Gone', id: '102422448', author: 'Speedmanman', verifier: 'Speedmanman', videoUrl: 'https://youtu.be/FNIYjsYeu4E', type: 'Challenge' },
+    { name: 'Youll Be Gone', id: '102422448', author: 'Speedmanman & EllieFan28', verifier: 'Speedmanman', videoUrl: 'https://youtu.be/FNIYjsYeu4E', type: 'Challenge' },
 
     
     { name: 'Miss Tick', id: '97238047', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/RyvLx7MLB8k', type: 'Challenge' },
