@@ -65,6 +65,9 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'SHAMELESS', id: '92635514', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/PZ6IKjNG_ac', type: 'Challenge' },
 
     
+    { name: '  BITTER  ', id: '102297237', author: 'iamfinley', verifier: 'lunatism', videoUrl: 'https://youtu.be/3V31u7ftrPU', type: 'Challenge' },
+
+    
     { name: 'Shinu', id: '94807515', author: 'Mariner', verifier: 'Mariner', videoUrl: 'https://www.youtube.com/watch?v=v-kjDdP-CKg', type: 'Challenge' },
 
 
@@ -116,6 +119,9 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'The Frozen Crypt', id: '95212065', author: 'Hectorien', verifier: 'HyetalL', videoUrl: 'https://youtu.be/0pSzZDgeaCM', type: 'Challenge' },
 
 
+    { name: 'Elijahs Funhouse', id: '102301277', author: 'EllieFan28', verifier: 'EllieFan28', videoUrl: 'https://youtu.be/SbQx5RUBlpw', type: 'Challenge' },
+
+    
     { name: 'STARRY SUNSET', id: '101576722', author: 'Hectorien', verifier: 'Hectorien', videoUrl: 'https://youtu.be/atONAiI-KMg', type: 'Challenge' },
 
 
@@ -294,14 +300,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'up and down mode', id: '97415982', author: 'lunatism', verifier: 'lunatism', videoUrl: 'videourl', type: 'Challenge' },
 
 
-    { name: 'OHHidoyhoyo', id: '101832346', author: 'iamfinleyy', verifier: 'KiaraDoggie', videoUrl: 'https://www.youtube.com/watch?v=3r1o01zROB4', type: 'Challenge' },
-
-    
-    { name: 'they call me messer', id: '97716826', author: 'Cubangaming1', verifier: 'Cubangaming1', videoUrl: 'https://youtu.be/rD3Mo59_XTw', type: 'Challenge' },
-
-    
-    { name: 'hello extended list', id: '93122627', author: 'lunatism', verifier: 'lunatism', videoUrl: 'videourl', type: 'Challenge' }
-  
+    { name: 'OHHidoyhoyo', id: '101832346', author: 'iamfinleyy', verifier: 'KiaraDoggie', videoUrl: 'https://www.youtube.com/watch?v=3r1o01zROB4', type: 'Challenge' }
     
     //don't put a comma at the end of the last level... or you will Die !!!!!
     
