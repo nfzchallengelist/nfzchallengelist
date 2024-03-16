@@ -303,7 +303,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'hello extended list', id: '93122627', author: 'lunatism', verifier: 'lunatism', videoUrl: 'videourl', type: 'Challenge' }
   
     
-    //don't put a comma at the end of the last level... or you will Die !!!!
+    //don't put a comma at the end of the last level... or you will Die !!!!!
     
   ];
 
