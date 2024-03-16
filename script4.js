@@ -1,6 +1,6 @@
 window.addEventListener('DOMContentLoaded', function() {
   var levels = [
-    //top row is #101 on the list
+    //top row is #101 on the list,
 
     { name: 'core bore glore', id: '92126842', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
     
