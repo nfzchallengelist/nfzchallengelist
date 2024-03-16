@@ -1,6 +1,6 @@
 window.addEventListener('DOMContentLoaded', function() {
   var levels = [
-    //THE LIST !
+    //THE LIST !!
     
     { name: 'silly goober area', id: '101574741', author: 'lunatism & iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/OoO4I_R3F5k', type: 'Challenge' },
     
