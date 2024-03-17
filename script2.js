@@ -167,6 +167,9 @@ window.addEventListener('DOMContentLoaded', function() {
     
     { name: 'MudPuddle', id: '101815269', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/HYdo1PPwISY', type: 'Challenge' },   
 
+
+    { name: 'Thinley', id: '102332969', author: 'iamfinleyy', verifier: 'rinjello', videoUrl: 'https://youtu.be/zQTd_3_Gp2A', type: 'Challenge' },   
+
     
     { name: 'xobama', id: '92020976', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/Jovw88VaXuY', type: 'Challenge' },
 
@@ -297,10 +300,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: '5  am chsallenge', id: '92610835', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/J2tZdz6rQHk', type: 'Challenge' },
 
 
-    { name: 'up and down mode', id: '97415982', author: 'lunatism', verifier: 'lunatism', videoUrl: 'videourl', type: 'Challenge' },
-
-
-    { name: 'OHHidoyhoyo', id: '101832346', author: 'iamfinleyy', verifier: 'KiaraDoggie', videoUrl: 'https://www.youtube.com/watch?v=3r1o01zROB4', type: 'Challenge' }
+    { name: 'up and down mode', id: '97415982', author: 'lunatism', verifier: 'lunatism', videoUrl: 'videourl', type: 'Challenge' }
     
     //don't put a comma at the end of the last level... or you will Die !!!!!
     
