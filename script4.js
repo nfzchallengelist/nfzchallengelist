@@ -2,7 +2,9 @@ window.addEventListener('DOMContentLoaded', function() {
   var levels = [
     //top row is #101 on the list,
     
-     { name: 'up and down mode', id: '97415982', author: 'lunatism', verifier: 'lunatism', videoUrl: 'videourl', type: 'Challenge' },
+    { name: '5  am chsallenge', id: '92610835', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/J2tZdz6rQHk', type: 'Challenge' },
+    
+    { name: 'up and down mode', id: '97415982', author: 'lunatism', verifier: 'lunatism', videoUrl: 'videourl', type: 'Challenge' },
     
     { name: 'OHHidoyhoyo', id: '101832346', author: 'iamfinleyy', verifier: 'KiaraDoggie', videoUrl: 'https://www.youtube.com/watch?v=3r1o01zROB4', type: 'Challenge' },
     
