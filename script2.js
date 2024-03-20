@@ -258,6 +258,9 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: '7 CLICK BAERSTARD', id: '92021716', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/ZVQzNANy_Ik', type: 'Challenge' },
     
 
+    { name: 'h  Afg', id: '102516347', author: 'lunatism & iamfinleyy', verifier: 'lunatism', videoUrl: 'https://youtu.be/7-OhaQqjpGw', type: 'Challenge' },
+
+    
     { name: 'and or is milk', id: '93085309', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://www.youtube.com/watch?v=cI5Ux3MQcwc', type: 'Challenge' },
     
    
@@ -297,10 +300,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'fauxureta', id: '92003404', author: 'TortellinniT', verifier: 'TortellinniT', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
    
     
-    { name: 'the Thingimajig', id: '101440099', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/sSCXBO-7470', type: 'Challenge' },
-    
-       
-    { name: 'grandma parkinson', id: '101391857', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/C6dyWA2V-sI', type: 'Challenge' }
+    { name: 'the Thingimajig', id: '101440099', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/sSCXBO-7470', type: 'Challenge' }
     
     //don't put a comma at the end of the last level... or you will Die !!!!!
     
