@@ -2,6 +2,8 @@ window.addEventListener('DOMContentLoaded', function() {
   var levels = [
     //top row is #101 on the list,
 
+    { name: 'grandma parkinson', id: '101391857', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/C6dyWA2V-sI', type: 'Challenge' },
+    
     { name: 'mobiel chalng', id: '102070782', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/mBfSBJ7XhPY', type: 'Challenge' },
     
     { name: 'WTFdohiyoWTF', id: '97375482', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/iXu3G6CAMX0', type: 'Challenge' },
