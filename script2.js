@@ -25,6 +25,9 @@ window.addEventListener('DOMContentLoaded', function() {
 
     { name: 'CYBERGIRL', id: '101377264', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/7lCxgFR1HrY', type: 'Challenge' },
   
+
+    { name: '3 SECOND FINLEY', id: '102480578', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/6sy6uxADudM', type: 'Challenge' },
+  
     
     { name: 'never take yourself', id: '92575160', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/lKSkVU1WS2s', type: 'Challenge' },
 
@@ -151,10 +154,10 @@ window.addEventListener('DOMContentLoaded', function() {
     
     { name: '3 seconds icremrob', id: '92107867', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/LVHez78-neE', type: 'Challenge' },
     
+// EXTENDED LIST
     
     { name: 'KILLER', id: '92146539', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/JLkMh7-xyMA', type: 'Challenge' },
 
-    // EXTENDED LIST
     
     { name: 'NOFUTURETERROR', id: '92062723', author: 'bloxy', verifier: 'bloxy', videoUrl: 'https://youtu.be/dqM7Ll6FNKY', type: 'Challenge' },
     
@@ -297,10 +300,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'the Thingimajig', id: '101440099', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/sSCXBO-7470', type: 'Challenge' },
     
        
-    { name: 'grandma parkinson', id: '101391857', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/C6dyWA2V-sI', type: 'Challenge' },
-
-    
-    { name: 'mobiel chalng', id: '102070782', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/mBfSBJ7XhPY', type: 'Challenge' }
+    { name: 'grandma parkinson', id: '101391857', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/C6dyWA2V-sI', type: 'Challenge' }
     
     //don't put a comma at the end of the last level... or you will Die !!!!!
     
