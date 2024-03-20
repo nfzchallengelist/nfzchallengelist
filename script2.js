@@ -41,6 +41,9 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'otakemo dansu', id: '92591135', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/dy5XfrS6ngw', type: 'Challenge' },
 
 
+    { name: 'ermm Awkward', id: '102533575', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/sA4X_lYUACI', type: 'Challenge' },
+
+
     { name: 'monter ONE HUNDRED', id: '98201570', author: 'bloxy', verifier: 'bloxy', videoUrl: 'https://www.youtube.com/watch?v=hhseQlpFHe4', type: 'Challenge' },
 
 
@@ -151,10 +154,10 @@ window.addEventListener('DOMContentLoaded', function() {
     
     { name: 'JeanPaulEtSesBonAmis', id: '92486595', author: 'BekahFan82', verifier: 'BekahFan82', videoUrl: 'https://youtu.be/LzN-D9z1BsM', type: 'Challenge' },
 
+// EXTENDED LIST
     
     { name: '3 seconds icremrob', id: '92107867', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/LVHez78-neE', type: 'Challenge' },
-    
-// EXTENDED LIST
+  
     
     { name: 'KILLER', id: '92146539', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/JLkMh7-xyMA', type: 'Challenge' },
 
@@ -297,11 +300,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'check general', id: '97683510', author: 'EllieFan28', verifier: 'EllieFan28', videoUrl: 'https://youtu.be/UldAfQ9zsiw', type: 'Challenge' },
     
    
-    { name: 'fauxureta', id: '92003404', author: 'TortellinniT', verifier: 'TortellinniT', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' },
-   
-    
-    { name: 'the Thingimajig', id: '101440099', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/sSCXBO-7470', type: 'Challenge' }
-    
+    { name: 'fauxureta', id: '92003404', author: 'TortellinniT', verifier: 'TortellinniT', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' }
     //don't put a comma at the end of the last level... or you will Die !!!!!
     
   ];
