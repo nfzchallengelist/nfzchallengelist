@@ -71,7 +71,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'ACHE', id: '92030106', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/Pqk_4qR_5-M', type: 'Challenge' },
 
     
-    { name: 'SHAMELESS', id: '92635514', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/PZ6IKjNG_ac', type: 'Challenge' },
+    { name: 'SHAMELESS', id: '92635514', author: 'iamfinleyy', verifier: 'rinjello', videoUrl: 'https://youtu.be/t7vqWLtMO5o', type: 'Challenge' },
 
     
     { name: '  BITTER  ', id: '102297237', author: 'iamfinley', verifier: 'lunatism', videoUrl: 'https://youtu.be/3V31u7ftrPU', type: 'Challenge' },
