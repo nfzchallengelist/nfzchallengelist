@@ -76,6 +76,9 @@ window.addEventListener('DOMContentLoaded', function() {
     
     { name: '  BITTER  ', id: '102297237', author: 'iamfinley', verifier: 'lunatism', videoUrl: 'https://youtu.be/3V31u7ftrPU', type: 'Challenge' },
 
+
+    { name: 'blind S', id: '102519547', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/W7B_iExMBr8', type: 'Challenge' },
+
     
     { name: 'Shinu', id: '94807515', author: 'Mariner', verifier: 'Mariner', videoUrl: 'https://www.youtube.com/watch?v=v-kjDdP-CKg', type: 'Challenge' },
 
@@ -113,6 +116,9 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'hello legacy list', id: '97793177', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/GHjVik7TLq0?si=lqixS0LFX36VYRq8', type: 'Challenge' },
 
 
+    { name: 'blend S', id: '102455213', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/XB11VQGLvpo', type: 'Challenge' },
+
+
     { name: 'silent', id: '102188940', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/QMe90XsK684', type: 'Challenge' },
 
 
@@ -145,6 +151,7 @@ window.addEventListener('DOMContentLoaded', function() {
    
     { name: 'Under Heroine I', id: '92182309', author: 'Mariner', verifier: 'Mariner', videoUrl: 'https://youtu.be/4cK_ZNj7D7c', type: 'Challenge' },
 
+    // EXTENDED LIST
 
     { name: 'UTMANING', id: '92265300', author: 'Hectorien', verifier: 'Hectorien', videoUrl: 'https://youtu.be/7wgGPKZvCyQ', type: 'Challenge' },
 
@@ -154,7 +161,6 @@ window.addEventListener('DOMContentLoaded', function() {
     
     { name: 'JeanPaulEtSesBonAmis', id: '92486595', author: 'BekahFan82', verifier: 'BekahFan82', videoUrl: 'https://youtu.be/LzN-D9z1BsM', type: 'Challenge' },
 
-// EXTENDED LIST
     
     { name: '3 seconds icremrob', id: '92107867', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/LVHez78-neE', type: 'Challenge' },
   
@@ -220,6 +226,9 @@ window.addEventListener('DOMContentLoaded', function() {
 
     
     { name: 'Youll Be Gone', id: '102422448', author: 'Speedmanman & EllieFan28', verifier: 'Speedmanman', videoUrl: 'https://youtu.be/FNIYjsYeu4E', type: 'Challenge' },
+
+
+    { name: 'w hat am i doing', id: '102539366', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/yWPLe7CGPcM', type: 'Challenge' },
 
     
     { name: 'Miss Tick', id: '97238047', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/RyvLx7MLB8k', type: 'Challenge' },
@@ -293,14 +302,6 @@ window.addEventListener('DOMContentLoaded', function() {
   
     { name: 'actual', id: '92054335', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/xDwMBFhVIk0', type: 'Challenge' },
     
-
-    { name: 'Dohiyoer', id: '97334410', author: 'OWOSHA', verifier: 'OWOSHA', videoUrl: 'videourl', type: 'Challenge' },
-
-
-    { name: 'check general', id: '97683510', author: 'EllieFan28', verifier: 'EllieFan28', videoUrl: 'https://youtu.be/UldAfQ9zsiw', type: 'Challenge' },
-    
-   
-    { name: 'fauxureta', id: '92003404', author: 'TortellinniT', verifier: 'TortellinniT', videoUrl: 'YOUTUBEURLRIGHTHERE', type: 'Challenge' }
     //don't put a comma at the end of the last level... or you will Die !!!!!
     
   ];
