@@ -302,7 +302,7 @@ window.addEventListener('DOMContentLoaded', function() {
   
     { name: 'actual', id: '92054335', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/xDwMBFhVIk0', type: 'Challenge' },
     
-    //don't put a comma at the end of the last level... or you will Die !!!!!
+    //don't put a comma at the end of the last level... or you will Die !!!!!!
     
   ];
 
