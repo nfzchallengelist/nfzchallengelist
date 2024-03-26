@@ -185,9 +185,18 @@ listItem.addEventListener('click', function() {
   document.getElementById('popup-id').textContent = levels[index].id;
   document.getElementById('popup-author').textContent = levels[index].author;
   document.getElementById('popup-verifier').textContent = levels[index].verifier;
+  document.getElementById('popup-song').textContent = levels[index].songUrl;
 
   // Display the popup
   popup.classList.add('visible');
+
+  // Update the song download button link
+  var songButton = document.getElementById('popup-song');
+  songButton.addEventListener('click', function() {
+    window.open(levels[index].songUrl, '_blank');
+  });
+  songButton.textContent = "NONG"; // Set custom text for the button
+
 });
 
 // Close the popup when the close button is clicked

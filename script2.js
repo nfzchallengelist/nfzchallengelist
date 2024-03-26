@@ -162,7 +162,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'owo', id: '92690170', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/vPvRNoYdU7I', type: 'Challenge' },
 
    
-    { name: 'Under Heroine I', id: '92182309', author: 'Mariner', verifier: 'Mariner', videoUrl: 'https://youtu.be/4cK_ZNj7D7c', type: 'Challenge' },
+    { name: 'Under Heroine I', id: '92182309', author: 'Mariner', verifier: 'Mariner', videoUrl: 'https://youtu.be/4cK_ZNj7D7c', songUrl: 'https://cdn.discordapp.com/attachments/965511410287259650/1126300422714433556/203958.mp3?ex=660dec82&is=65fb7782&hm=87ede7ff368cba6dfa46aa571281b9d3a882fa4b8c5842cae885170a059ce990&', type: 'Challenge' },
 
 
     { name: 'UTMANING', id: '92265300', author: 'Hectorien', verifier: 'Hectorien', videoUrl: 'https://youtu.be/7wgGPKZvCyQ', type: 'Challenge' },
@@ -303,7 +303,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'Doggie Challenge 22', id: '97567598', author: 'Mariner', verifier: 'Mariner', videoUrl: 'https://youtu.be/zjlZNVIXZN8', type: 'Challenge' }
 
     
-    //don't put a comma at the end of the last level... or you will Die !!!!!!
+    //don't put a comma at the end of the last level... or you will Die !!!!!! 
     
   ];
 
@@ -371,9 +371,18 @@ listItem.addEventListener('click', function() {
   document.getElementById('popup-id').textContent = levels[index].id;
   document.getElementById('popup-author').textContent = levels[index].author;
   document.getElementById('popup-verifier').textContent = levels[index].verifier;
+  document.getElementById('popup-song').textContent = levels[index].songUrl;
 
   // Display the popup
   popup.classList.add('visible');
+
+  // Update the song download button link
+  var songButton = document.getElementById('popup-song');
+  songButton.addEventListener('click', function() {
+    window.open(levels[index].songUrl, '_blank');
+  });
+  songButton.textContent = "NONG"; // Set custom text for the button
+
 });
 
 // Close the popup when the close button is clicked
