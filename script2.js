@@ -86,6 +86,9 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'SPACK', id: '92147966', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/0MmxMthPf04', type: 'Challenge' },
 
 
+    { name: 'owens', id: '102764790', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/_kSu8YzkVHY', type: 'Challenge' },
+
+
     { name: 'forgotten', id: '93240831', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://youtu.be/2ibS2zQLW98', type: 'Challenge' },
     
     
@@ -148,10 +151,10 @@ window.addEventListener('DOMContentLoaded', function() {
     
     { name: 'CGHALLEGNE 4 FINLEY', id: '101697470', author: 'lunatism', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/7oj8zNUAo2Q', type: 'Challenge' },
     
+    // EXTENDED LIST
     
     { name: 'owo', id: '92690170', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/vPvRNoYdU7I', type: 'Challenge' },
 
-    // EXTENDED LIST
    
     { name: 'Under Heroine I', id: '92182309', author: 'Mariner', verifier: 'Mariner', videoUrl: 'https://youtu.be/4cK_ZNj7D7c', type: 'Challenge' },
 
@@ -297,10 +300,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'Himalayan SeaSalt', id: '101968419', author: 'Zkasper', verifier: 'Zkasper', videoUrl: 'https://www.youtube.com/watch?v=kD4soqQfU2k', type: 'Challenge' },
     
     
-    { name: 'super fartbreaker 49', id: '100788855', author: 'Shadowpan69420', verifier: 'Shadowpan69420', videoUrl: 'https://youtu.be/-VuPf2fsv0E', type: 'Challenge' },
-    
- 
-    { name: 'diego aint clearing', id: '92059623', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/K_c02JMp48g', type: 'Challenge' }
+    { name: 'super fartbreaker 49', id: '100788855', author: 'Shadowpan69420', verifier: 'Shadowpan69420', videoUrl: 'https://youtu.be/-VuPf2fsv0E', type: 'Challenge' }
 
     
     //don't put a comma at the end of the last level... or you will Die !!!!!!
