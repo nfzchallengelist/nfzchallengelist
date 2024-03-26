@@ -2,7 +2,7 @@ window.addEventListener('DOMContentLoaded', function() {
   var levels = [
     //THE LIST !!
     
-    { name: 'silly goober area', id: '101574741', author: 'lunatism & iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/OoO4I_R3F5k', type: 'Challenge' },
+    { name: 'silly goober area', id: '101574741', author: 'lunatism & iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/OoO4I_R3F5k', type: 'Challenge', songUrl: 'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/50000%20~%20silly%20goober%20area.mp3' },
     
 
     { name: 'PINEAPPLEUPSIDEDOWN', id: '93081214', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/2SJF8UDYw9M', type: 'Challenge' },
