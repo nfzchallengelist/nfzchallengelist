@@ -8,7 +8,7 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'PINEAPPLEUPSIDEDOWN', id: '93081214', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/2SJF8UDYw9M', type: 'Challenge' },
 
     
-    { name: 'MGSSMITMCHASTSEBBTGA', id: 'ask elijah loll', author: 'BekahFan82', verifier: 'BekahFan82', videoUrl: 'https://youtu.be/Ih6UNtTfGT8', type: 'Challenge' },
+    { name: 'MGSSMITMCHASTSEBBTGA', id: '103024910', author: 'BekahFan82', verifier: 'BekahFan82', videoUrl: 'https://youtu.be/Ih6UNtTfGT8', type: 'Challenge' },
 
     
     { name: '3Si is Dead', id: '95573883', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/xyI-hFyE47I', type: 'Challenge' },
