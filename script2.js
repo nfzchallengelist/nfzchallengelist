@@ -204,7 +204,7 @@ window.addEventListener('DOMContentLoaded', function() {
 
     { name: 'maybe the hard', id: '92003489', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/SZw5maq_6ZA', songUrl:'', type: 'Challenge' }
     
-    //don't put a comma at the end of the last level... or you will Die !!!!!! 
+    //don't put a comma at the end of the last level... or you will Die !!!!!!!
     
   ];
 
