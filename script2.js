@@ -60,8 +60,6 @@ window.addEventListener('DOMContentLoaded', function() {
     
     { name: 'Shinu', id: '94807515', author: 'Mariner', verifier: 'Mariner', videoUrl: 'https://www.youtube.com/watch?v=v-kjDdP-CKg', songUrl:'', type: 'Challenge' },
 
-    { name: 'SPACK', id: '92147966', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/0MmxMthPf04', songUrl:'', type: 'Challenge' },
-
     { name: 'owens', id: '102764790', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/_kSu8YzkVHY', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/213318.mp3', type: 'Challenge' },
 
     { name: 'SHAMELESS', id: '92635514', author: 'iamfinleyy', verifier: 'rinjello', videoUrl: 'https://youtu.be/t7vqWLtMO5o', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/35353.mp3', type: 'Challenge' },
@@ -93,6 +91,8 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'silent', id: '102188940', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/QMe90XsK684', songUrl:'', type: 'Challenge' },
 
     { name: '4 seconds icremrob', id: '93302229', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/mXbGVM0FXrk', songUrl:'', type: 'Challenge' },
+    
+    { name: 'SPACK', id: '92147966', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/0MmxMthPf04', songUrl:'', type: 'Challenge' },
     
     { name: '3 second jello', id: '93201795', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://www.youtube.com/watch?v=oUG37s7jnBY', songUrl:'', type: 'Challenge' },
 
