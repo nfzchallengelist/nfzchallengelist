@@ -2,7 +2,14 @@ window.addEventListener('DOMContentLoaded', function() {
   var levels = [
     //top row is #101 on the list
 
-   { name: 'maybe the hard', id: '92003489', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/SZw5maq_6ZA', songUrl:'', type: 'Challenge' },
+    
+    { name: 'and or is milk', id: '93085309', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://www.youtube.com/watch?v=cI5Ux3MQcwc', songUrl:'', type: 'Challenge' },
+   
+    { name: 'Bla9y W GO7', id: '93212972', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/NHoW-xtndmY', songUrl:'', type: 'Challenge' },
+
+    { name: 'tje among', id: '102336747', author: 'Hectorien', verifier: 'Hectorien', videoUrl: 'https://youtu.be/OcdOioFU-Q0', songUrl:'', type: 'Challenge' },
+    
+    { name: 'maybe the hard', id: '92003489', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/SZw5maq_6ZA', songUrl:'', type: 'Challenge' },
     
     { name: 'Doggie Challenge 22', id: '97567598', author: 'Mariner', verifier: 'Mariner', videoUrl: 'https://youtu.be/zjlZNVIXZN8', songUrl:'', type: 'Challenge' },
     
