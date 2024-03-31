@@ -65,8 +65,6 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'Shinu', id: '94807515', author: 'Mariner', verifier: 'Mariner', videoUrl: 'https://www.youtube.com/watch?v=v-kjDdP-CKg', songUrl:'', type: 'Challenge' },
 
     { name: 'owens', id: '102764790', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/_kSu8YzkVHY', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/213318.mp3', type: 'Challenge' },
-
-    { name: 'silentiumtv', id: '103033180', author: 'rinjello', verifier: 'rinjello', videoUrl: 'novideo', songUrl:'', type: 'Challenge' },
     
     { name: 'SHAMELESS', id: '92635514', author: 'iamfinleyy', verifier: 'rinjello', videoUrl: 'https://youtu.be/t7vqWLtMO5o', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/35353.mp3', type: 'Challenge' },
     
@@ -111,8 +109,6 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'Elijahs Funhouse', id: '102301277', author: 'EllieFan28', verifier: 'EllieFan28', videoUrl: 'https://youtu.be/SbQx5RUBlpw', songUrl:'', type: 'Challenge' },
     
     { name: 'STARRY SUNSET', id: '101576722', author: 'Hectorien', verifier: 'Hectorien', videoUrl: 'https://youtu.be/atONAiI-KMg', songUrl:'', type: 'Challenge' },
-    
-    { name: 'Tunnel of This Pear', id: '102640445', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/HWp7Hbnn-WA', songUrl:'', type: 'Challenge' },
     
     { name: 'Acheloos', id: '93991257', author: 'Mariner', verifier: 'Mariner', videoUrl: 'https://www.youtube.com/watch?v=v38Lpv_8Hmk', songUrl:'', type: 'Challenge' },
     
@@ -202,7 +198,11 @@ window.addEventListener('DOMContentLoaded', function() {
     
     { name: 'SNITCHes Get sTICHES', id: '93145754', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/9EFxqiC0v3g', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/930302.mp3', type: 'Challenge' },
 
-    { name: 'yea same bro', id: '101888877', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/1Wl_d4GNnVM', songUrl:'', type: 'Challenge' }
+    { name: 'yea same bro', id: '101888877', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/1Wl_d4GNnVM', songUrl:'', type: 'Challenge' },
+
+    { name: '7 CLICK BAERSTARD', id: '92021716', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/ZVQzNANy_Ik', songUrl:'', type: 'Challenge' },
+
+    { name: 'h  Afg', id: '102516347', author: 'lunatism & iamfinleyy', verifier: 'lunatism', videoUrl: 'https://youtu.be/7-OhaQqjpGw', songUrl:'', type: 'Challenge' }
 
     
     //don't put a comma at the end of the last level... or you will Die !!!!!!!
