@@ -1,11 +1,6 @@
 window.addEventListener('DOMContentLoaded', function() {
   var levels = [
     //top row is #101 on the list
-
-      
-    { name: '7 CLICK BAERSTARD', id: '92021716', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/ZVQzNANy_Ik', songUrl:'', type: 'Challenge' },
-
-    { name: 'h  Afg', id: '102516347', author: 'lunatism & iamfinleyy', verifier: 'lunatism', videoUrl: 'https://youtu.be/7-OhaQqjpGw', songUrl:'', type: 'Challenge' },
     
     { name: 'and or is milk', id: '93085309', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://www.youtube.com/watch?v=cI5Ux3MQcwc', songUrl:'', type: 'Challenge' },
    
@@ -127,7 +122,9 @@ window.addEventListener('DOMContentLoaded', function() {
     
     { name: 'fcuk you ben', id: '97155742', author: 'idkache', verifier: 'idkache', videoUrl: 'https://youtu.be/t_WmytBqquM', songUrl:'', type: 'Challenge' },
 
-    { name: '❌ Dantes Inferno ❌', id: 'N/A', author: 'Mariner', verifier: 'Mariner', videoUrl: 'https://youtu.be/eq6PGWcyUSg', songUrl:'', type: 'Challenge' },
+    { name: '❌ silentiumtv ❌', id: '103033180', author: 'rinjello', verifier: 'rinjello', videoUrl: 'novideo', songUrl:'', type: 'Challenge' },
+
+    { name: '❌ Tunnel of This Pear ❌', id: '102640445', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/HWp7Hbnn-WA', songUrl:'', type: 'Challenge' },
 
     { name: '❌ 3 second finley ❌', id: 'N/A', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/g_8hIDEL4rY', type: 'Challenge' }
    
