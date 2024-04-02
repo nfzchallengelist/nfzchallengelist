@@ -83,8 +83,6 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'airborne', id: '92186881', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/8bqC1GO6BIs', songUrl:'', type: 'Challenge' },
 
     { name: 'soarer', id: '97265119', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://www.youtube.com/watch?v=Dpk1yA5o5ps', songUrl:'', type: 'Challenge' },
-    
-    { name: 'dohiyoer is dead', id: '97448225', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/DvfybjTpRkI', songUrl:'', type: 'Challenge' },
  
     { name: 'Based Penguins', id: '92024672', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://www.youtube.com/watch?v=xOTNT1yq4wI', songUrl:'', type: 'Challenge' },
     
@@ -94,18 +92,22 @@ window.addEventListener('DOMContentLoaded', function() {
 
     { name: 'silent', id: '102188940', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/QMe90XsK684', songUrl:'', type: 'Challenge' },
 
-    { name: '4 seconds icremrob', id: '93302229', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/mXbGVM0FXrk', songUrl:'', type: 'Challenge' },
-    
-    { name: 'SPACK', id: '92147966', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/0MmxMthPf04', songUrl:'', type: 'Challenge' },
-    
-    { name: '3 second jello', id: '93201795', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://www.youtube.com/watch?v=oUG37s7jnBY', songUrl:'', type: 'Challenge' },
-
-    { name: 'meta fight back', id: '100786753', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/XyzzqLqijlI', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/599036.mp3', type: 'Challenge' },
-       
-    // EXTENDED LIST 
+    { name: 'GIRL HELL 1999', id: '103088356', author: 'rinjello', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/mcupPSRBE54', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/63.mp3', type: 'Challenge' },
     
     { name: 'The Frozen Crypt', id: '95212065', author: 'Hectorien', verifier: 'HyetalL', videoUrl: 'https://youtu.be/0pSzZDgeaCM', songUrl:'', type: 'Challenge' },
     
+    { name: '4 seconds icremrob', id: '93302229', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/mXbGVM0FXrk', songUrl:'', type: 'Challenge' },
+       
+    { name: 'dohiyoer is dead', id: '97448225', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/DvfybjTpRkI', songUrl:'', type: 'Challenge' },
+    
+    { name: 'SPACK', id: '92147966', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/0MmxMthPf04', songUrl:'', type: 'Challenge' },
+    
+    // EXTENDED LIST 
+    
+    { name: '3 second jello', id: '93201795', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://www.youtube.com/watch?v=oUG37s7jnBY', songUrl:'', type: 'Challenge' },
+    
+    { name: 'meta fight back', id: '100786753', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/XyzzqLqijlI', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/599036.mp3', type: 'Challenge' },
+               
     { name: 'Elijahs Funhouse', id: '102301277', author: 'EllieFan28', verifier: 'EllieFan28', videoUrl: 'https://youtu.be/SbQx5RUBlpw', songUrl:'', type: 'Challenge' },
     
     { name: 'STARRY SUNSET', id: '101576722', author: 'Hectorien', verifier: 'Hectorien', videoUrl: 'https://youtu.be/atONAiI-KMg', songUrl:'', type: 'Challenge' },
@@ -200,9 +202,7 @@ window.addEventListener('DOMContentLoaded', function() {
 
     { name: 'yea same bro', id: '101888877', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/1Wl_d4GNnVM', songUrl:'', type: 'Challenge' },
 
-    { name: '7 CLICK BAERSTARD', id: '92021716', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/ZVQzNANy_Ik', songUrl:'', type: 'Challenge' },
-
-    { name: 'h  Afg', id: '102516347', author: 'lunatism & iamfinleyy', verifier: 'lunatism', videoUrl: 'https://youtu.be/7-OhaQqjpGw', songUrl:'', type: 'Challenge' }
+    { name: '7 CLICK BAERSTARD', id: '92021716', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/ZVQzNANy_Ik', songUrl:'', type: 'Challenge' }
 
     
     //don't put a comma at the end of the last level... or you will Die !!!!!!!
