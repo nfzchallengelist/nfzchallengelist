@@ -46,6 +46,8 @@ window.addEventListener('DOMContentLoaded', function() {
 
     { name: 'hologram circus', id: '102877260', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/JT63mDISgrg', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/767365.mp3', type: 'Challenge' },
 
+    { name: 'Rasa NFZ Edition', id: '103541842', author: 'BekahFan82', verifier: 'BekahFan82', videoUrl: 'https://youtu.be/PDDlQ2VP7sw', songUrl:'', type: 'Challenge' },
+
     { name: 'fubuki', id: '102756426', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/BXOgzijUc-I', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/739959.mp3', type: 'Challenge' },
 
     { name: 'Dantes Inferno', id: '99683393', author: 'Mariner', verifier: 'Mariner', videoUrl: 'https://youtu.be/eq6PGWcyUSg', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/758448.mp3', type: 'Challenge' },
@@ -99,10 +101,10 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: '4 seconds icremrob', id: '93302229', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/mXbGVM0FXrk', songUrl:'', type: 'Challenge' },
        
     { name: 'dohiyoer is dead', id: '97448225', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/DvfybjTpRkI', songUrl:'', type: 'Challenge' },
+
+    // EXTENDED LIST 
     
     { name: 'Zpinhg', id: '102059403', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/DNdb79wDajc?si=iS47bjdjBG6cKhJrv', songUrl:'', type: 'Challenge' },
-    
-// EXTENDED LIST 
     
     { name: 'SPACK', id: '92147966', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/0MmxMthPf04', songUrl:'', type: 'Challenge' },
     
@@ -200,9 +202,7 @@ window.addEventListener('DOMContentLoaded', function() {
 
     { name: 'john jonson chal', id: '103263223', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/eyuf2fs_oK0', songUrl:'', type: 'Challenge' },
     
-    { name: 'TURBO', id: '101446495', author: 'Cubangaming1', verifier: 'Cubangaming1', videoUrl: 'https://www.youtube.com/watch?v=A9Jl_S37GlM', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/503544.mp3', type: 'Challenge' },
-    
-    { name: 'Cobra', id: '92521006', author: 'Cubangaming1', verifier: 'Cubangaming1', videoUrl: 'https://youtu.be/njChUxU7418', songUrl:'', type: 'Challenge' }
+    { name: 'TURBO', id: '101446495', author: 'Cubangaming1', verifier: 'Cubangaming1', videoUrl: 'https://www.youtube.com/watch?v=A9Jl_S37GlM', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/503544.mp3', type: 'Challenge' }
     
     //don't put a comma at the end of the last level... or you will Die !!!!!!!
     
