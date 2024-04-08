@@ -10,10 +10,10 @@ window.addEventListener('DOMContentLoaded', function() {
     
     { name: 'MGSSMITMCHASTSEBBTGA', id: '103024910', author: 'BekahFan82', verifier: 'BekahFan82', videoUrl: 'https://youtu.be/Ih6UNtTfGT8', songUrl:'', type: 'Challenge' },
 
-    { name: 'Throwing Flashbang', id: '101576176', author: 'Mariner', verifier: 'Mariner', videoUrl: 'https://www.youtube.com/watch?v=Alr4rs1Ug3g', songUrl:'', type: 'Challenge' },
-    
     { name: 'Q', id: '93045504', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/mq6NkJ49cso', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/667198.mp3', type: 'Challenge' },
 
+    { name: 'Throwing Flashbang', id: '101576176', author: 'Mariner', verifier: 'Mariner', videoUrl: 'https://www.youtube.com/watch?v=Alr4rs1Ug3g', songUrl:'', type: 'Challenge' },
+    
     { name: '3Si is Dead', id: '95573883', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/xyI-hFyE47I', songUrl:'', type: 'Challenge' },
     
     { name: 'Hello Bro', id: '102874314', author: 'lunatism', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/x6Ewq5xnd1E', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/1192265.mp3', type: 'Challenge' },
@@ -38,9 +38,9 @@ window.addEventListener('DOMContentLoaded', function() {
     
     { name: 'monter ONE HUNDRED', id: '98201570', author: 'bloxy', verifier: 'bloxy', videoUrl: 'https://www.youtube.com/watch?v=hhseQlpFHe4', songUrl:'', type: 'Challenge' },
 
-    { name: 'Pale Ball in the Sky', id: '93235300', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://youtu.be/D-BLEt7Rob0', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/1082232.mp3', type: 'Challenge' },
-
     { name: 'Crystal Meth X', id: '103004684', author: 'HyetalL', verifier: 'EllieFan28', videoUrl: 'https://youtu.be/Q2suBfGY1rk', songUrl:'', type: 'Challenge' },
+    
+    { name: 'Pale Ball in the Sky', id: '93235300', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://youtu.be/D-BLEt7Rob0', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/1082232.mp3', type: 'Challenge' },
     
     { name: 'ROYGBIV', id: '102175129', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/IV-ujq9tRmc', songUrl:'', type: 'Challenge' },
 
