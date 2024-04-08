@@ -138,7 +138,7 @@ window.addEventListener('DOMContentLoaded', function() {
     
     { name: 'KILLER', id: '92146539', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/JLkMh7-xyMA', songUrl:'', type: 'Challenge' },
     
-    { name: 'paranoid', id: '103413511', author: 'bloxy', verifier: 'bloxy', videoUrl: 'https://youtu.be/z-QcQdP7KRE?si=e-I2AMv5R_zeUCoO', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/23861.mp3', type: 'Challenge' },
+    { name: 'PARANOID', id: '103413511', author: 'bloxy', verifier: 'bloxy', videoUrl: 'https://youtu.be/z-QcQdP7KRE?si=e-I2AMv5R_zeUCoO', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/23861.mp3', type: 'Challenge' },
     
     { name: 'NOFUTURETERROR', id: '92062723', author: 'bloxy', verifier: 'bloxy', videoUrl: 'https://youtu.be/dqM7Ll6FNKY', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/380587.mp3', type: 'Challenge' },
 
