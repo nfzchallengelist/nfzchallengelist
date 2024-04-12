@@ -64,7 +64,7 @@ window.addEventListener('DOMContentLoaded', function() {
     listItem.classList.add('list-item');
     var listNumber = document.createElement('div');
     listNumber.classList.add('list-number');
-    listNumber.textContent = '#' + (index + 101);
+    listNumber.textContent = '#' + (index + 151);
     var listThumbnail = document.createElement('div');
     listThumbnail.classList.add('list-thumbnail');
     listThumbnail.style.pointerEvents = 'none'; // Add this line
