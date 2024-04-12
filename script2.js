@@ -62,6 +62,8 @@ window.addEventListener('DOMContentLoaded', function() {
 
     { name: 'PEEP', id: '92116696', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/JfLPnRfMVRE', songUrl:'', type: 'Challenge' },
     
+    { name: 'Lunar Ascent', id: '103667292', author: 'Hectorien', verifier: 'Hectorien', videoUrl: 'https://youtu.be/lnQTS_1Kczs', songUrl:'', type: 'Challenge' },
+    
     { name: 'misr beis burgr', id: '92545202', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/ON8q6T2Qmmo', songUrl:'', type: 'Challenge' },
     
     { name: 'ACHE', id: '92030106', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/Pqk_4qR_5-M', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/818027.mp3', type: 'Challenge' },
@@ -101,8 +103,6 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'silent', id: '102188940', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/QMe90XsK684', songUrl:'', type: 'Challenge' },
 
     { name: 'GIRL HELL 1999', id: '103088356', author: 'rinjello', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/mcupPSRBE54', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/63.mp3', type: 'Challenge' },
-    
- // EXTENDED LIST 
     
     { name: 'The Frozen Crypt', id: '95212065', author: 'Hectorien', verifier: 'HyetalL', videoUrl: 'https://youtu.be/0pSzZDgeaCM', songUrl:'', type: 'Challenge' },
     
@@ -152,6 +152,8 @@ window.addEventListener('DOMContentLoaded', function() {
     
     { name: 'Loona Mayor', id: '102376285', author: 'iamfinleyy', verifier: 'lunatism', videoUrl: 'https://youtu.be/n50xO0AJlik', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/944600.mp3', type: 'Challenge' },
 
+ // EXTENDED LIST 
+    
     { name: 'summit 3', id: '101829250', author: 'Zkasper', verifier: 'Zkasper', videoUrl: 'https://www.youtube.com/watch?v=iKiZZNOkWSs', songUrl:'', type: 'Challenge' },
     
     { name: 'walnut', id: '100748201', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/ET9dEbh6k70', songUrl:'', type: 'Challenge' },
@@ -300,11 +302,7 @@ window.addEventListener('DOMContentLoaded', function() {
     
     { name: 'brosinf', id: '94206441', author: 'jaundiceplier', verifier: 'iamfinleyy', videoUrl: 'YOUTUBEURLRIGHTHERE', songUrl:'', type: 'Challenge' },
 
-    { name: '3 click hector', id: '95956602', author: 'Hectorien', verifier: 'Hectorien', videoUrl: 'https://youtu.be/4I0kL7_x7aQ', songUrl:'', type: 'Challenge' },
-
-    { name: 'Greg', id: '95244928', author: 'Hectorien', verifier: 'Hectorien', videoUrl: 'https://youtu.be/TYGCov-nurY', songUrl:'', type: 'Challenge' },
-    
-    { name: '4  am chsallenge', id: '92668659', author: 'lunatism', verifier: 'lunatism', videoUrl: 'YOUTUBEURLRIGHTHERE', songUrl:'', type: 'Challenge' }
+    { name: '3 click hector', id: '95956602', author: 'Hectorien', verifier: 'Hectorien', videoUrl: 'https://youtu.be/4I0kL7_x7aQ', songUrl:'', type: 'Challenge' }
     
     //don't put a comma at the end of the last level... or you will Die !!!!!!!
     
