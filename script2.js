@@ -1,6 +1,8 @@
 window.addEventListener('DOMContentLoaded', function() {
   var levels = [
     //THE LIST !!!!
+
+    { name: 'STING', id: '103865963', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/13rYMxWreVM', songUrl:'', type: 'Challenge' },
     
     { name: 'silly goober area', id: '101574741', author: 'lunatism & iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/OoO4I_R3F5k', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/50000.mp3', type: 'Challenge' },
 
@@ -150,9 +152,9 @@ window.addEventListener('DOMContentLoaded', function() {
 
     { name: 'DeMode Ship', id: '102993733', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/hMa9p3rdZPQ', songUrl:'', type: 'Challenge' },
     
+   // EXTENDED LIST 
+    
     { name: 'Loona Mayor', id: '102376285', author: 'iamfinleyy', verifier: 'lunatism', videoUrl: 'https://youtu.be/n50xO0AJlik', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/944600.mp3', type: 'Challenge' },
-
- // EXTENDED LIST 
     
     { name: 'summit 3', id: '101829250', author: 'Zkasper', verifier: 'Zkasper', videoUrl: 'https://www.youtube.com/watch?v=iKiZZNOkWSs', songUrl:'', type: 'Challenge' },
     
@@ -208,7 +210,7 @@ window.addEventListener('DOMContentLoaded', function() {
     
     { name: 'Wase MasE', id: '92126003', author: 'Cubangaming1', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/gJfQNreLhBU', songUrl:'', type: 'Challenge' },
 
- { name: 'DeMode Wave', id: '101660635', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/ua9EQCpjjak', songUrl:'', type: 'Challenge' },
+    { name: 'DeMode Wave', id: '101660635', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/ua9EQCpjjak', songUrl:'', type: 'Challenge' },
     
     { name: 'TURBO', id: '101446495', author: 'Cubangaming1', verifier: 'Cubangaming1', videoUrl: 'https://www.youtube.com/watch?v=A9Jl_S37GlM', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/503544.mp3', type: 'Challenge' },
     
@@ -300,9 +302,7 @@ window.addEventListener('DOMContentLoaded', function() {
     
     { name: 'gurkin', id: '95873564', author: 'jaundiceplier', verifier: 'bloxy', videoUrl: 'YOUTUBEURLRIGHTHERE', songUrl:'', type: 'Challenge' },
     
-    { name: 'brosinf', id: '94206441', author: 'jaundiceplier', verifier: 'iamfinleyy', videoUrl: 'YOUTUBEURLRIGHTHERE', songUrl:'', type: 'Challenge' },
-
-    { name: '3 click hector', id: '95956602', author: 'Hectorien', verifier: 'Hectorien', videoUrl: 'https://youtu.be/4I0kL7_x7aQ', songUrl:'', type: 'Challenge' }
+    { name: 'brosinf', id: '94206441', author: 'jaundiceplier', verifier: 'iamfinleyy', videoUrl: 'YOUTUBEURLRIGHTHERE', songUrl:'', type: 'Challenge' }
     
     //don't put a comma at the end of the last level... or you will Die !!!!!!!
     
