@@ -203,6 +203,8 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'Youll Be Gone', id: '102422448', author: 'Speedmanman & EllieFan28', verifier: 'Speedmanman', videoUrl: 'https://youtu.be/FNIYjsYeu4E', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/158965.mp3', type: 'Challenge' },
 
     { name: 'w hat am i doing', id: '102539366', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/yWPLe7CGPcM', songUrl:'', type: 'Challenge' },
+
+    { name: 'Stomp', id: '104058867', author: 'iamfinleyy', verifier: 'lunatism', videoUrl: 'https://youtu.be/tIGaeE40hIs', songUrl:'', type: 'Challenge' },
     
     { name: 'Miss Tick', id: '97238047', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/RyvLx7MLB8k', songUrl:'', type: 'Challenge' },
 
@@ -300,9 +302,7 @@ window.addEventListener('DOMContentLoaded', function() {
   
     { name: 'jundice 2', id: '95815064', author: 'jaundiceplier', verifier: 'bloxy', videoUrl: 'YOUTUBEURLRIGHTHERE', songUrl:'', type: 'Challenge' },
 
-    { name: 'p oo', id: '95815064', author: 'lunatismm', verifier: 'lunatismm', videoUrl: 'https://youtu.be/0A1-rLY4KqE', songUrl:'', type: 'Challenge' },
-    
-    { name: 'microclick hell', id: '92127106', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'YOUTUBEURLRIGHTHERE', songUrl:'', type: 'Challenge' }
+    { name: 'p oo', id: '95815064', author: 'lunatismm', verifier: 'lunatismm', videoUrl: 'https://youtu.be/0A1-rLY4KqE', songUrl:'', type: 'Challenge' }
     
     //don't put a comma at the end of the last level... or you will Die !!!!!!!
     
