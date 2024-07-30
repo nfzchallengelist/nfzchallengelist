@@ -2,6 +2,8 @@ window.addEventListener('DOMContentLoaded', function() {
   var levels = [
     //THE LIST !!!!
 
+    { name: 'Steel', id: '103865963', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/Q0sWjIuOUlc', songUrl:'', type: 'Challenge' },
+    
     { name: 'STING', id: '103865963', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/13rYMxWreVM', songUrl:'', type: 'Challenge' },
     
     { name: 'silly goober area', id: '101574741', author: 'lunatism & iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/OoO4I_R3F5k', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/50000.mp3', type: 'Challenge' },
@@ -149,7 +151,9 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: '3 second jello', id: '93201795', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://www.youtube.com/watch?v=oUG37s7jnBY', songUrl:'', type: 'Challenge' },
   
     { name: 'meta fight back', id: '100786753', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/XyzzqLqijlI', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/599036.mp3', type: 'Challenge' },
-               
+
+   // EXTENDED LIST 
+    
     { name: 'Elijahs Funhouse', id: '102301277', author: 'EllieFan28', verifier: 'EllieFan28', videoUrl: 'https://youtu.be/SbQx5RUBlpw', songUrl:'', type: 'Challenge' },
     
     { name: 'STARRY SUNSET', id: '101576722', author: 'Hectorien', verifier: 'Hectorien', videoUrl: 'https://youtu.be/atONAiI-KMg', songUrl:'', type: 'Challenge' },
@@ -189,8 +193,6 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'KILLER', id: '92146539', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/JLkMh7-xyMA', songUrl:'', type: 'Challenge' },
     
     { name: 'PARANOID', id: '103413511', author: 'bloxy', verifier: 'bloxy', videoUrl: 'https://youtu.be/z-QcQdP7KRE?si=e-I2AMv5R_zeUCoO', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/23861.mp3', type: 'Challenge' },
-
-   // EXTENDED LIST 
     
     { name: 'NOFUTURETERROR', id: '92062723', author: 'bloxy', verifier: 'bloxy', videoUrl: 'https://youtu.be/dqM7Ll6FNKY', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/380587.mp3', type: 'Challenge' },
 
@@ -300,9 +302,7 @@ window.addEventListener('DOMContentLoaded', function() {
     
     { name: 'diego aint clearing', id: '92059623', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/K_c02JMp48g', songUrl:'', type: 'Challenge' },
     
-    { name: 'Get it Together', id: '92035976', author: 'Shadowpan69420', verifier: 'iamfinleyy', videoUrl: 'videourl', songUrl:'', type: 'Challenge' },  
-    
-    { name: 'actual', id: '92054335', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/xDwMBFhVIk0', songUrl:'', type: 'Challenge' }
+    { name: 'Get it Together', id: '92035976', author: 'Shadowpan69420', verifier: 'iamfinleyy', videoUrl: 'videourl', songUrl:'', type: 'Challenge' }
     
     //don't put a comma at the end of the last level... or you will Die !!!!!!!
     
