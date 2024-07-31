@@ -235,10 +235,10 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'nfzcls', id: '92036087', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/ScPaEm-5HME', songUrl:'', type: 'Challenge' },
 
     { name: '     space     ', id: '84450638', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/HvL5RSKUq20', songUrl:'', type: 'Challenge' },
-
-     { name: 'KIRB', id: '103492485', author: 'iamfinleyy', verifier: 'lunatism', videoUrl: 'https://youtu.be/VcXfTgEy3Go', songUrl:'', type: 'Challenge' },
     
     { name: 'Take Me Away', id: '108174518', author: 'iamfinleyy', verifier: 'lunatism', videoUrl: 'https://youtu.be/owOOCP_mS5w', songUrl:'', type: 'Challenge' },
+
+    { name: 'KIRB', id: '103492485', author: 'iamfinleyy', verifier: 'lunatism', videoUrl: 'https://youtu.be/VcXfTgEy3Go', songUrl:'', type: 'Challenge' },
     
     { name: 'idk im bored', id: '96256691', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://www.youtube.com/watch?v=xChN8VjJA7A', songUrl:'', type: 'Challenge' },
 
