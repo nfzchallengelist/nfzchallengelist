@@ -2,6 +2,8 @@ window.addEventListener('DOMContentLoaded', function() {
   var levels = [
     //top row is #151 on the list
 
+     { name: 'Get it Together', id: '92035976', author: 'Shadowpan69420', verifier: 'iamfinleyy', videoUrl: 'videourl', songUrl:'', type: 'Challenge' },
+
     { name: 'actual', id: '92054335', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/xDwMBFhVIk0', songUrl:'', type: 'Challenge' },
     
     { name: 'Dohiyoer', id: '97334410', author: 'OWOSHA', verifier: 'OWOSHA', videoUrl: 'videourl', songUrl:'', type: 'Challenge' },
