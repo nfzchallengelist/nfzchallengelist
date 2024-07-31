@@ -235,8 +235,10 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'nfzcls', id: '92036087', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/ScPaEm-5HME', songUrl:'', type: 'Challenge' },
 
     { name: '     space     ', id: '84450638', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/HvL5RSKUq20', songUrl:'', type: 'Challenge' },
+
+     { name: 'KIRB', id: '103492485', author: 'iamfinleyy', verifier: 'lunatism', videoUrl: 'https://youtu.be/VcXfTgEy3Go', songUrl:'', type: 'Challenge' },
     
-    { name: 'KIRB', id: '103492485', author: 'iamfinleyy', verifier: 'lunatism', videoUrl: 'https://youtu.be/VcXfTgEy3Go', songUrl:'', type: 'Challenge' },
+    { name: 'Take Me Away', id: '108174518', author: 'iamfinleyy', verifier: 'lunatism', videoUrl: 'https://youtu.be/owOOCP_mS5w', songUrl:'', type: 'Challenge' },
     
     { name: 'idk im bored', id: '96256691', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://www.youtube.com/watch?v=xChN8VjJA7A', songUrl:'', type: 'Challenge' },
 
@@ -300,9 +302,7 @@ window.addEventListener('DOMContentLoaded', function() {
     
     { name: 'super fartbreaker 49', id: '100788855', author: 'Shadowpan69420', verifier: 'Shadowpan69420', videoUrl: 'https://youtu.be/-VuPf2fsv0E', songUrl:'', type: 'Challenge' },
     
-    { name: 'diego aint clearing', id: '92059623', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/K_c02JMp48g', songUrl:'', type: 'Challenge' },
-    
-    { name: 'Get it Together', id: '92035976', author: 'Shadowpan69420', verifier: 'iamfinleyy', videoUrl: 'videourl', songUrl:'', type: 'Challenge' }
+    { name: 'diego aint clearing', id: '92059623', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/K_c02JMp48g', songUrl:'', type: 'Challenge' }
     
     //don't put a comma at the end of the last level... or you will Die !!!!!!!
     
