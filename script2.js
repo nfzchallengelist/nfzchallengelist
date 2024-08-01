@@ -68,7 +68,7 @@ window.addEventListener('DOMContentLoaded', function() {
 
     { name: '45 Cows', id: '104266867', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/zPs_FP5sD_4', songUrl:'', type: 'Challenge' },
     
-    { name: 'MURDER', id: '104009041', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/JvMcR2EBJjw', songUrl:'', type: 'Challenge' },
+    { name: 'MURDER', id: '104009041', author: 'iamfinleyy', verifier: 'lunatism', videoUrl: 'https://youtu.be/aytLnqf8xs4', songUrl:'', type: 'Challenge' },
    
     { name: 'hologram circus', id: '102877260', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/JT63mDISgrg', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/767365.mp3', type: 'Challenge' },
 
