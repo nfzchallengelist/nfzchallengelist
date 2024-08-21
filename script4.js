@@ -1,6 +1,36 @@
 window.addEventListener('DOMContentLoaded', function() {
   var levels = [
     //top row is #151 on the list
+    
+    { name: 'Cobra', id: '92521006', author: 'Cubangaming1', verifier: 'Cubangaming1', videoUrl: 'https://youtu.be/njChUxU7418', songUrl:'', type: 'Challenge' },
+    
+    { name: 'a m level', id: '92521006', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/ZPOzJATQO2k', songUrl:'', type: 'Challenge' },
+    
+    { name: 'SNITCHes Get sTICHES', id: '93145754', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/9EFxqiC0v3g', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/930302.mp3', type: 'Challenge' },
+
+    { name: 'yea same bro', id: '101888877', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/1Wl_d4GNnVM', songUrl:'', type: 'Challenge' },
+    
+    { name: '7 CLICK BAERSTARD', id: '92021716', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/ZVQzNANy_Ik', songUrl:'', type: 'Challenge' },
+
+    { name: 'h  Afg', id: '102516347', author: 'lunatism & iamfinleyy', verifier: 'lunatism', videoUrl: 'https://youtu.be/7-OhaQqjpGw', songUrl:'', type: 'Challenge' },
+    
+    { name: 'and or is milk', id: '93085309', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://www.youtube.com/watch?v=cI5Ux3MQcwc', songUrl:'', type: 'Challenge' },
+   
+    { name: 'Bla9y W GO7', id: '93212972', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/NHoW-xtndmY', songUrl:'', type: 'Challenge' },
+
+    { name: 'tje among', id: '102336747', author: 'Hectorien', verifier: 'Hectorien', videoUrl: 'https://youtu.be/OcdOioFU-Q0', songUrl:'', type: 'Challenge' },
+    
+    { name: 'maybe the hard', id: '92003489', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/SZw5maq_6ZA', songUrl:'', type: 'Challenge' },
+    
+    { name: 'Doggie Challenge 22', id: '97567598', author: 'Mariner', verifier: 'Mariner', videoUrl: 'https://youtu.be/zjlZNVIXZN8', songUrl:'', type: 'Challenge' },
+
+    { name: 'Tasty Challenge', id: '107964223', author: 'lunatism', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/d4e3VjKsyXI', songUrl:'', type: 'Challenge' },
+    
+    { name: 'Himalayan SeaSalt', id: '101968419', author: 'Zkasper', verifier: 'Zkasper', videoUrl: 'https://www.youtube.com/watch?v=kD4soqQfU2k', songUrl:'', type: 'Challenge' },
+    
+    { name: 'diego aint clearing', id: '92059623', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/K_c02JMp48g', songUrl:'', type: 'Challenge' },
+    
+    { name: 'Get it Together', id: '92035976', author: 'Shadowpan69420', verifier: 'iamfinleyy', videoUrl: 'videourl', songUrl:'', type: 'Challenge' },  
 
     { name: 'super fartbreaker 49', id: '100788855', author: 'Shadowpan69420', verifier: 'Shadowpan69420', videoUrl: 'https://youtu.be/-VuPf2fsv0E', songUrl:'', type: 'Challenge' },
    
