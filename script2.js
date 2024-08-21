@@ -14,7 +14,9 @@ window.addEventListener('DOMContentLoaded', function() {
 
     { name: 'PINEAPPLEUPSIDEDOWN', id: '93081214', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/2SJF8UDYw9M', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/22222.mp3', type: 'Challenge' },
     
-    { name: 'MGSSMITMCHASTSEBBTGA', id: '103024910', author: 'BekahFan82', verifier: 'BekahFan82', videoUrl: 'https://youtu.be/Ih6UNtTfGT8', songUrl:'', type: 'Challenge' },
+    { name: 'MGSSMITMCHASTSEBBTGA', id: '103024910', author: 'Elijah', verifier: 'Elijah', videoUrl: 'https://youtu.be/Ih6UNtTfGT8', songUrl:'', type: 'Challenge' },
+
+    { name: 'GDACHE CHALLENGE', id: '109049853', author: 'lunatismm & Elijah', verifier: 'iandoggie', videoUrl: 'nothing', songUrl:'', type: 'Challenge' },
 
     { name: 'Unnamed 0', id: '81660662', author: 'Mariner', verifier: 'Mariner', videoUrl: 'https://youtu.be/y9KIE_D9Rxo', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/1131108.mp3', type: 'Challenge' },
 
@@ -44,6 +46,8 @@ window.addEventListener('DOMContentLoaded', function() {
 
     { name: 'ermm Awkward', id: '102533575', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/sA4X_lYUACI', songUrl:'', type: 'Challenge' },
 
+    { name: 'Place', id: '109115961', author: 'bloxy', verifier: 'bloxy', videoUrl: 'https://youtu.be/532g8Kts_uw', songUrl:'', type: 'Challenge' },
+
     { name: '3 SECOND FINLEY', id: '102480578', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/6sy6uxADudM', songUrl:'', type: 'Challenge' },
     
     { name: 'mises bis borgar', id: '103541842', author: 'lunatism', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/eAhz8wvlP9g', songUrl:'', type: 'Challenge' },
@@ -54,7 +58,7 @@ window.addEventListener('DOMContentLoaded', function() {
 
     { name: 'Tahanene', id: '103592746', author: 'Cubangaming1', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/GT1O4cxQJKI', songUrl:'', type: 'Challenge' },
     
-    { name: 'Crystal Meth X', id: '103004684', author: 'HyetalL', verifier: 'EllieFan28', videoUrl: 'https://youtu.be/Q2suBfGY1rk', songUrl:'', type: 'Challenge' },
+    { name: 'Crystal Meth X', id: '103004684', author: 'HyetalL', verifier: 'MartijnFan99', videoUrl: 'https://youtu.be/Q2suBfGY1rk', songUrl:'', type: 'Challenge' },
   
     { name: 'o neko', id: '104388452', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/v1BzCGH6SZA', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/1105168.mp3', type: 'Challenge' },
     
@@ -64,7 +68,7 @@ window.addEventListener('DOMContentLoaded', function() {
 
     { name: 'UTMANING II', id: '107856675', author: 'Hectorien', verifier: 'Hectorien', videoUrl: 'https://youtu.be/UqZCxG9VbUg', songUrl:'', type: 'Challenge' },
    
-    { name: 'Rasa NFZ Edition', id: '103541842', author: 'BekahFan82', verifier: 'BekahFan82', videoUrl: 'https://youtu.be/PDDlQ2VP7sw', songUrl:'', type: 'Challenge' },
+    { name: 'Rasa NFZ Edition', id: '103541842', author: 'Elijah', verifier: 'Elijah', videoUrl: 'https://youtu.be/PDDlQ2VP7sw', songUrl:'', type: 'Challenge' },
 
     { name: '45 Cows', id: '104266867', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/zPs_FP5sD_4', songUrl:'', type: 'Challenge' },
     
@@ -78,9 +82,13 @@ window.addEventListener('DOMContentLoaded', function() {
     
     { name: '  BITTER  ', id: '102297237', author: 'iamfinley', verifier: 'lunatism', videoUrl: 'https://youtu.be/3V31u7ftrPU', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/1229890.mp3', type: 'Challenge' },
 
-    { name: '3 second flamewall', id: '104212895', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/ikdOfNcS48Y', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/758448.mp3', type: 'Challenge' },
+     { name: 'breakout redux redux', id: '108738784', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/61Re4_TS9h0', songUrl:'', type: 'Challenge' },
+
+    { name: '3 second flamewall', id: '104212895', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/ikdOfNcS48Y', songUrl:'', type: 'Challenge' },
 
     { name: 'Dantes Inferno', id: '99683393', author: 'Mariner', verifier: 'Mariner', videoUrl: 'https://youtu.be/eq6PGWcyUSg', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/758448.mp3', type: 'Challenge' },
+
+    { name: 'EVIL 3si', id: '109073906', author: 'iamfinleyy & Icecreamrib', verifier: 'iamfinleyy', videoUrl: 'nothing', songUrl:'', type: 'Challenge' },
     
     { name: 'weird challenge ig 2', id: '105585763', author: 'lunatism', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/qhrz2PaJMZg', songUrl:'', type: 'Challenge' },
  
@@ -95,6 +103,8 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'ACHE', id: '92030106', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/Pqk_4qR_5-M', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/818027.mp3', type: 'Challenge' },
  
     { name: 'im so brazy', id: '104179317', author: 'iamfinleyy', verifier: 'lunatism', videoUrl: 'https://youtu.be/b8qU7zNwo-g', songUrl:'', type: 'Challenge' },
+
+    { name: 'Machinery', id: '109205312', author: 'bloxyyt & lunatismm', verifier: 'bloxyyt', videoUrl: 'https://youtu.be/Das48nHYyUo', songUrl:'', type: 'Challenge' },
    
     { name: 'blind S', id: '102519547', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/W7B_iExMBr8', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/375303.mp3', type: 'Challenge' },
 
@@ -102,9 +112,13 @@ window.addEventListener('DOMContentLoaded', function() {
     
     { name: 'Shinu', id: '94807515', author: 'Mariner', verifier: 'Mariner', videoUrl: 'https://www.youtube.com/watch?v=v-kjDdP-CKg', songUrl:'', type: 'Challenge' },
 
+    { name: '3sWhy', id: '108899957', author: 'iamfinleyy & Icecreamrib', verifier: 'iamfinleyy', videoUrl: 'nothing', songUrl:'', type: 'Challenge' },
+
     { name: 'owens', id: '102764790', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/_kSu8YzkVHY', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/213318.mp3', type: 'Challenge' },
     
    { name: 'hello legacy list', id: '97793177', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/GHjVik7TLq0?si=lqixS0LFX36VYRq8', songUrl:'', type: 'Challenge' },
+
+    { name: 'waltz', id: '108536068', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/j8cDYqueX4E', songUrl:'', type: 'Challenge' },
     
     { name: 'soarer', id: '97265119', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://www.youtube.com/watch?v=Dpk1yA5o5ps', songUrl:'', type: 'Challenge' },
 
@@ -118,11 +132,13 @@ window.addEventListener('DOMContentLoaded', function() {
 
     { name: 'Radius', id: '107147932', author: 'lunatismm', verifier: 'lunatismm', videoUrl: 'https://youtu.be/rhH6NUbxxnw', songUrl:'', type: 'Challenge' },
    
-    { name: '3 second roxor', id: '92433126', author: 'iamfinleyy', verifier: 'Speedmanman', videoUrl: 'https://youtu.be/44PAFVgFRa8', songUrl:'', type: 'Challenge' },
+    { name: '3 second roxor', id: '92433126', author: 'iamfinleyy', verifier: 'iandoggie', videoUrl: 'https://youtu.be/44PAFVgFRa8', songUrl:'', type: 'Challenge' },
    
     { name: 'WOWee', id: '92059623', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/lVBndG76UdY', songUrl:'', type: 'Challenge' },
 
     { name: 'do u', id: '102866711', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/m7UzTpSvSWw', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/635452.mp3', type: 'Challenge' },
+
+    { name: 'costco breakin', id: '108626644', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/p35KUQLHa54', songUrl:'', type: 'Challenge' },
     
     { name: 'Leaves', id: '97306244', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://www.youtube.com/watch?v=PpOP9tZtmmY', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/421244.mp3', type: 'Challenge' },
     
@@ -137,10 +153,14 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'GIRL HELL 1999', id: '103088356', author: 'rinjello', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/mcupPSRBE54', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/63.mp3', type: 'Challenge' },
 
     { name: 'pingkschtro po', id: '106881328', author: 'lunatismm', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/1KkFmeUsuXE', songUrl:'', type: 'Challenge' },
-   
+
+  // EXTENDED LIST 
+    
     { name: 'The Frozen Crypt', id: '95212065', author: 'Hectorien', verifier: 'HyetalL', videoUrl: 'https://youtu.be/0pSzZDgeaCM', songUrl:'', type: 'Challenge' },
     
     { name: '4 seconds icremrob', id: '93302229', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/mXbGVM0FXrk', songUrl:'', type: 'Challenge' },
+
+    { name: 'Acheronhouse 82', id: '108405549', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/8YVQOiBzOh0', songUrl:'', type: 'Challenge' },
        
     { name: 'dohiyoer is dead', id: '97448225', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/DvfybjTpRkI', songUrl:'', type: 'Challenge' },
     
@@ -151,10 +171,8 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: '3 second jello', id: '93201795', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://www.youtube.com/watch?v=oUG37s7jnBY', songUrl:'', type: 'Challenge' },
   
     { name: 'meta fight back', id: '100786753', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/XyzzqLqijlI', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/599036.mp3', type: 'Challenge' },
-
-   // EXTENDED LIST 
     
-    { name: 'Elijahs Funhouse', id: '102301277', author: 'EllieFan28', verifier: 'EllieFan28', videoUrl: 'https://youtu.be/SbQx5RUBlpw', songUrl:'', type: 'Challenge' },
+    { name: 'Elijahs Funhouse', id: '102301277', author: 'MartijnFan99', verifier: 'MartijnFan99', videoUrl: 'https://youtu.be/SbQx5RUBlpw', songUrl:'', type: 'Challenge' },
     
     { name: 'STARRY SUNSET', id: '101576722', author: 'Hectorien', verifier: 'Hectorien', videoUrl: 'https://youtu.be/atONAiI-KMg', songUrl:'', type: 'Challenge' },
     
@@ -168,6 +186,8 @@ window.addEventListener('DOMContentLoaded', function() {
       
     { name: 'owo', id: '92690170', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/vPvRNoYdU7I', songUrl:'', type: 'Challenge' },
 
+    { name: 'wave time', id: '90144148', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/zWRtEH9i2n4', songUrl:'', type: 'Challenge' },
+
     { name: 'Osamason circles', id: '105937345', author: 'bloxy', verifier: 'bloxy', videoUrl: 'https://youtu.be/igw8FMY-llM', songUrl: 'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/4231.mp3', type: 'Challenge' },
 
     { name: 'Under Heroine I', id: '92182309', author: 'Mariner', verifier: 'Mariner', videoUrl: 'https://youtu.be/4cK_ZNj7D7c', songUrl: 'https://cdn.discordapp.com/attachments/965511410287259650/1126300422714433556/203958.mp3?ex=660dec82&is=65fb7782&hm=87ede7ff368cba6dfa46aa571281b9d3a882fa4b8c5842cae885170a059ce990&', type: 'Challenge' },
@@ -177,8 +197,12 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'Cargotics', id: '108046012', author: 'lunatism', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/e82nAyKaqrQ', songUrl:'', type: 'Challenge' },
     
     { name: 'supa girl racer', id: '102597018', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://youtu.be/I_g4KHYA4iM', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/1.mp3', type: 'Challenge' }, 
+
+    { name: 'Xtraalos', id: '108626982', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'nothing', songUrl:'', type: 'Challenge' },
     
-    { name: 'JeanPaulEtSesBonAmis', id: '92486595', author: 'BekahFan82', verifier: 'BekahFan82', videoUrl: 'https://youtu.be/LzN-D9z1BsM', songUrl:'', type: 'Challenge' },
+    { name: 'JeanPaulEtSesBonAmis', id: '92486595', author: 'Elijah', verifier: 'Elijah', videoUrl: 'https://youtu.be/LzN-D9z1BsM', songUrl:'', type: 'Challenge' },
+ 
+    { name: 'BornTheJohnnyWay', id: '108899006', author: 'iamfinleyy & bloxyyt', verifier: 'iamfinleyy', videoUrl: 'nothing', songUrl:'', type: 'Challenge' },
 
     { name: 'Rimming and Timming', id: '105267749', author: 'Hectorien', verifier: 'Hectorien', videoUrl: 'https://youtu.be/TbC_qAqmiy0', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/906615.mp3', type: 'Challenge' },
     
@@ -187,6 +211,8 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'Meet me in Grenville', id: '104233454', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/UFbtNoijKuY', songUrl:'', type: 'Challenge' },
 
     { name: '3 seconds icremrob', id: '92107867', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/LVHez78-neE', songUrl:'', type: 'Challenge' },
+
+    { name: '5 MINUTE CHALLENGE', id: '108802022', author: 'lunatismm', verifier: 'lunatiamm', videoUrl: 'https://youtu.be/OzqWxrobNUk', songUrl:'', type: 'Challenge' },
 
     { name: 'FREE taCO SalaD', id: '103258614', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/SOMOlx_ra9M', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/24235.mp3', type: 'Challenge' },
 
@@ -214,7 +240,7 @@ window.addEventListener('DOMContentLoaded', function() {
     
     { name: 'Acheron Noclip 2', id: '98047767', author: 'Mariner', verifier: 'Mariner', videoUrl: 'https://youtu.be/JAyO3mzq7Yg', songUrl:'', type: 'Challenge' },
 
-    { name: 'Figure It Out', id: '102421994', author: 'iamfinleyy', verifier: 'EllieFan28', videoUrl: 'https://youtu.be/0mOkMdb7FSc', songUrl:'', type: 'Challenge' },
+    { name: 'Figure It Out', id: '102421994', author: 'iamfinleyy', verifier: 'MartijnFan99', videoUrl: 'https://youtu.be/0mOkMdb7FSc', songUrl:'', type: 'Challenge' },
 
     { name: 'im naked', id: '107923432', author: 'lunatism', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/V1CV5oca-DQ', songUrl:'', type: 'Challenge' },
   
@@ -235,6 +261,8 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: '8  pm chsallenge', id: '92748808', author: 'lunatism', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/rOpTlFJZM8o', songUrl:'', type: 'Challenge' },
 
     { name: 'nfzcls', id: '92036087', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/ScPaEm-5HME', songUrl:'', type: 'Challenge' },
+
+    { name: 'FRUIT NEVER CLEAR', id: '108370965', author: 'lunatism', verifier: 'lunatism', videoUrl: 'nothing', songUrl:'', type: 'Challenge' },
    
     { name: 'Take Me Away', id: '108174518', author: 'iamfinleyy', verifier: 'lunatism', videoUrl: 'https://youtu.be/owOOCP_mS5w', songUrl:'', type: 'Challenge' },
 
@@ -246,7 +274,7 @@ window.addEventListener('DOMContentLoaded', function() {
     
     { name: 'Devilish Alcoholic', id: '101383870', author: 'HyetalL', verifier: 'HyetalL', videoUrl: 'https://youtu.be/MeLtGa4o7Dc?si=IMbpEBYpT9VR37GA', songUrl:'', type: 'Challenge' },
     
-    { name: 'Youll Be Gone', id: '102422448', author: 'Speedmanman & EllieFan28', verifier: 'Speedmanman', videoUrl: 'https://youtu.be/FNIYjsYeu4E', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/158965.mp3', type: 'Challenge' },
+    { name: 'Youll Be Gone', id: '102422448', author: 'iandoggie & MartijnFan99', verifier: 'iandoggie', videoUrl: 'https://youtu.be/FNIYjsYeu4E', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/158965.mp3', type: 'Challenge' },
 
     { name: 'w hat am i doing', id: '102539366', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/yWPLe7CGPcM', songUrl:'', type: 'Challenge' },
 
@@ -258,9 +286,11 @@ window.addEventListener('DOMContentLoaded', function() {
     
     { name: 'DeMode Wave', id: '101660635', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/ua9EQCpjjak', songUrl:'', type: 'Challenge' },
     
-    { name: 'Elijahs Number', id: '102190066', author: 'iamfinleyy', verifier: 'BekahFan82', videoUrl: 'https://youtu.be/d6BpqdoBc1Q', songUrl:'', type: 'Challenge' },
+    { name: 'Elijahs Number', id: '102190066', author: 'iamfinleyy', verifier: 'Elijah', videoUrl: 'https://youtu.be/d6BpqdoBc1Q', songUrl:'', type: 'Challenge' },
     
     { name: '24hr iamfinley chalk', id: '100976162', author: 'DrigeOrDraig', verifier: 'DrigeOrDraig', videoUrl: 'https://youtu.be/xke2YYdLQJU', songUrl:'', type: 'Challenge' },
+
+    { name: 'bubby drop', id: '108651928', author: 'lunatismm', verifier: 'lunatismm', videoUrl: 'nothing', songUrl:'', type: 'Challenge' },
     
     { name: 'Wase MasE', id: '92126003', author: 'Cubangaming1', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/gJfQNreLhBU', songUrl:'', type: 'Challenge' },
     
@@ -272,37 +302,8 @@ window.addEventListener('DOMContentLoaded', function() {
 
     { name: '10 jump barry', id: '107447596', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/29InDlnQ3Rw', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/761394.mp3', type: 'Challenge' },
  
-    { name: 'john jonson chal', id: '103263223', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/eyuf2fs_oK0', songUrl:'', type: 'Challenge' },
-    
-    { name: 'Cobra', id: '92521006', author: 'Cubangaming1', verifier: 'Cubangaming1', videoUrl: 'https://youtu.be/njChUxU7418', songUrl:'', type: 'Challenge' },
-    
-    { name: 'a m level', id: '92521006', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/ZPOzJATQO2k', songUrl:'', type: 'Challenge' },
-    
-    { name: 'SNITCHes Get sTICHES', id: '93145754', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/9EFxqiC0v3g', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/930302.mp3', type: 'Challenge' },
-
-    { name: 'yea same bro', id: '101888877', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/1Wl_d4GNnVM', songUrl:'', type: 'Challenge' },
-
-    { name: '7 CLICK BAERSTARD', id: '92021716', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/ZVQzNANy_Ik', songUrl:'', type: 'Challenge' },
-
-    { name: 'h  Afg', id: '102516347', author: 'lunatism & iamfinleyy', verifier: 'lunatism', videoUrl: 'https://youtu.be/7-OhaQqjpGw', songUrl:'', type: 'Challenge' },
-    
-    { name: 'and or is milk', id: '93085309', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://www.youtube.com/watch?v=cI5Ux3MQcwc', songUrl:'', type: 'Challenge' },
-   
-    { name: 'Bla9y W GO7', id: '93212972', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/NHoW-xtndmY', songUrl:'', type: 'Challenge' },
-
-    { name: 'tje among', id: '102336747', author: 'Hectorien', verifier: 'Hectorien', videoUrl: 'https://youtu.be/OcdOioFU-Q0', songUrl:'', type: 'Challenge' },
-    
-    { name: 'maybe the hard', id: '92003489', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/SZw5maq_6ZA', songUrl:'', type: 'Challenge' },
-    
-    { name: 'Doggie Challenge 22', id: '97567598', author: 'Mariner', verifier: 'Mariner', videoUrl: 'https://youtu.be/zjlZNVIXZN8', songUrl:'', type: 'Challenge' },
-
-    { name: 'Tasty Challenge', id: '107964223', author: 'lunatism', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/d4e3VjKsyXI', songUrl:'', type: 'Challenge' },
+    { name: 'john jonson chal', id: '103263223', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/eyuf2fs_oK0', songUrl:'', type: 'Challenge' }  
   
-    { name: 'Himalayan SeaSalt', id: '101968419', author: 'Zkasper', verifier: 'Zkasper', videoUrl: 'https://www.youtube.com/watch?v=kD4soqQfU2k', songUrl:'', type: 'Challenge' },
-     
-    { name: 'diego aint clearing', id: '92059623', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/K_c02JMp48g', songUrl:'', type: 'Challenge' },
-    
-    { name: 'Get it Together', id: '92035976', author: 'Shadowpan69420', verifier: 'iamfinleyy', videoUrl: 'videourl', songUrl:'', type: 'Challenge' }    
     
     //don't put a comma at the end of the last level... or you will Die !!!!!!!
     
