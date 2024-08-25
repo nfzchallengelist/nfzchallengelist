@@ -2,7 +2,7 @@ window.addEventListener('DOMContentLoaded', function() {
   var levels = [
     //THE LIST !!!!
 
-    { name: 'Steel', id: '103865963', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/Q0sWjIuOUlc', songUrl:'', type: 'Challenge' },
+    { name: 'Steel', id: '108166595', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/Q0sWjIuOUlc', songUrl:'', type: 'Challenge' },
     
     { name: 'STING', id: '103865963', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/13rYMxWreVM', songUrl:'', type: 'Challenge' },
     
@@ -16,7 +16,7 @@ window.addEventListener('DOMContentLoaded', function() {
     
     { name: 'MGSSMITMCHASTSEBBTGA', id: '103024910', author: 'Elijah', verifier: 'Elijah', videoUrl: 'https://youtu.be/Ih6UNtTfGT8', songUrl:'', type: 'Challenge' },
 
-    { name: 'GDACHE CHALLENGE', id: '109049853', author: 'lunatismm & Elijah', verifier: 'iandoggie', videoUrl: 'nothing', songUrl:'', type: 'Challenge' },
+    { name: 'GDACHE CHALLENGE', id: '109049853', author: 'lunatismm & Elijah', verifier: 'iandoggie', videoUrl: 'https://youtu.be/UwP8DPTy1h0', songUrl:'', type: 'Challenge' },
 
     { name: 'Unnamed 0', id: '81660662', author: 'Mariner', verifier: 'Mariner', videoUrl: 'https://youtu.be/y9KIE_D9Rxo', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/1131108.mp3', type: 'Challenge' },
 
@@ -28,7 +28,7 @@ window.addEventListener('DOMContentLoaded', function() {
     
     { name: 'Hello Bro', id: '102874314', author: 'lunatism', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/x6Ewq5xnd1E', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/1192265.mp3', type: 'Challenge' },
 
-    { name: 'RASAtone', id: '10164821', author: 'Tortellini', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/vPIwIH-cJ1s', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/11313.mp3', type: 'Challenge' },
+    { name: 'RASAtone', id: '101648218', author: 'Tortellini', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/vPIwIH-cJ1s', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/11313.mp3', type: 'Challenge' },
 
     { name: 'blue clapper', id: '105173148', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/rt6FbTNqHFg', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/85448.mp3', type: 'Challenge' },
     
@@ -68,7 +68,7 @@ window.addEventListener('DOMContentLoaded', function() {
 
     { name: 'UTMANING II', id: '107856675', author: 'Hectorien', verifier: 'Hectorien', videoUrl: 'https://youtu.be/UqZCxG9VbUg', songUrl:'', type: 'Challenge' },
    
-    { name: 'Rasa NFZ Edition', id: '103541842', author: 'Elijah', verifier: 'Elijah', videoUrl: 'https://youtu.be/PDDlQ2VP7sw', songUrl:'', type: 'Challenge' },
+    { name: 'Rasa NFZ Edition', id: '103389425', author: 'Elijah', verifier: 'Elijah', videoUrl: 'https://youtu.be/PDDlQ2VP7sw', songUrl:'', type: 'Challenge' },
 
     { name: '45 Cows', id: '104266867', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/zPs_FP5sD_4', songUrl:'', type: 'Challenge' },
     
@@ -126,7 +126,7 @@ window.addEventListener('DOMContentLoaded', function() {
     
     { name: 'SHAMELESS', id: '92635514', author: 'iamfinleyy', verifier: 'rinjello', videoUrl: 'https://youtu.be/t7vqWLtMO5o', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/35353.mp3', type: 'Challenge' },
     
-    { name: 'forgotten', id: '93240831', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://youtu.be/2ibS2zQLW98', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/509162.mp3', type: 'Challenge' },
+    { name: 'forgotten', id: '107187358', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://youtu.be/2ibS2zQLW98', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/509162.mp3', type: 'Challenge' },
     
     { name: 'ON THE DANCE FLOOR', id: '97098955', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/26cLLP6iYaU?si=ukqYBCEC52dPYSqK', songUrl:'', type: 'Challenge' },
 
@@ -150,7 +150,7 @@ window.addEventListener('DOMContentLoaded', function() {
 
     { name: 'silent', id: '102188940', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/QMe90XsK684', songUrl:'', type: 'Challenge' },
 
-    { name: 'GIRL HELL 1999', id: '103088356', author: 'rinjello', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/mcupPSRBE54', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/63.mp3', type: 'Challenge' },
+    { name: 'GIRL HELL 1999', id: '107187409', author: 'rinjello', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/mcupPSRBE54', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/63.mp3', type: 'Challenge' },
 
     { name: 'pingkschtro po', id: '106881328', author: 'lunatismm', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/1KkFmeUsuXE', songUrl:'', type: 'Challenge' },
 
@@ -168,7 +168,7 @@ window.addEventListener('DOMContentLoaded', function() {
     
     { name: 'SPACK', id: '92147966', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/0MmxMthPf04', songUrl:'', type: 'Challenge' },
     
-    { name: '3 second jello', id: '93201795', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://www.youtube.com/watch?v=oUG37s7jnBY', songUrl:'', type: 'Challenge' },
+    { name: '3 second jello', id: '107187597', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://www.youtube.com/watch?v=oUG37s7jnBY', songUrl:'', type: 'Challenge' },
   
     { name: 'meta fight back', id: '100786753', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/XyzzqLqijlI', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/599036.mp3', type: 'Challenge' },
     
@@ -196,7 +196,7 @@ window.addEventListener('DOMContentLoaded', function() {
 
     { name: 'Cargotics', id: '108046012', author: 'lunatism', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/e82nAyKaqrQ', songUrl:'', type: 'Challenge' },
     
-    { name: 'supa girl racer', id: '102597018', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://youtu.be/I_g4KHYA4iM', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/1.mp3', type: 'Challenge' }, 
+    { name: 'supa girl racer', id: '107187928', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://youtu.be/I_g4KHYA4iM', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/1.mp3', type: 'Challenge' }, 
 
     { name: 'Xtraalos', id: '108626982', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'nothing', songUrl:'', type: 'Challenge' },
     
@@ -262,13 +262,13 @@ window.addEventListener('DOMContentLoaded', function() {
 
     { name: 'nfzcls', id: '92036087', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/ScPaEm-5HME', songUrl:'', type: 'Challenge' },
 
-    { name: 'FRUIT NEVER CLEAR', id: '108370965', author: 'lunatism', verifier: 'lunatism', videoUrl: 'nothing', songUrl:'', type: 'Challenge' },
+    { name: 'FRUIT NEVER CLEAR', id: '108370965', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/03v4U-NoPp4', songUrl:'', type: 'Challenge' },
    
     { name: 'Take Me Away', id: '108174518', author: 'iamfinleyy', verifier: 'lunatism', videoUrl: 'https://youtu.be/owOOCP_mS5w', songUrl:'', type: 'Challenge' },
 
     { name: 'KIRB', id: '103492485', author: 'iamfinleyy', verifier: 'lunatism', videoUrl: 'https://youtu.be/VcXfTgEy3Go', songUrl:'', type: 'Challenge' },
     
-    { name: 'idk im bored', id: '96256691', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://www.youtube.com/watch?v=xChN8VjJA7A', songUrl:'', type: 'Challenge' },
+    { name: 'idk im bored', id: '107187959', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://www.youtube.com/watch?v=xChN8VjJA7A', songUrl:'', type: 'Challenge' },
 
     { name: 'bday challenge', id: '95310118', author: 'Hectorien', verifier: 'Hectorien', videoUrl: 'https://youtu.be/Hgge5EZPT-s?si=I3CGB_ajVy4krWqN', songUrl:'', type: 'Challenge' },
     
@@ -290,7 +290,7 @@ window.addEventListener('DOMContentLoaded', function() {
     
     { name: '24hr iamfinley chalk', id: '100976162', author: 'DrigeOrDraig', verifier: 'DrigeOrDraig', videoUrl: 'https://youtu.be/xke2YYdLQJU', songUrl:'', type: 'Challenge' },
 
-    { name: 'bubby drop', id: '108651928', author: 'lunatismm', verifier: 'lunatismm', videoUrl: 'nothing', songUrl:'', type: 'Challenge' },
+    { name: 'bubby drop', id: '108651928', author: 'lunatismm', verifier: 'lunatismm', videoUrl: 'https://youtu.be/JTyRYbZGldo', songUrl:'', type: 'Challenge' },
     
     { name: 'Wase MasE', id: '92126003', author: 'Cubangaming1', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/gJfQNreLhBU', songUrl:'', type: 'Challenge' },
     
