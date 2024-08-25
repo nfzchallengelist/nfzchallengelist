@@ -88,7 +88,7 @@ window.addEventListener('DOMContentLoaded', function() {
 
     { name: 'Dantes Inferno', id: '99683393', author: 'Mariner', verifier: 'Mariner', videoUrl: 'https://youtu.be/eq6PGWcyUSg', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/758448.mp3', type: 'Challenge' },
 
-    { name: 'EVIL 3si', id: '109073906', author: 'iamfinleyy & Icecreamrib', verifier: 'iamfinleyy', videoUrl: 'nothing', songUrl:'', type: 'Challenge' },
+    { name: 'EVIL 3si', id: '109073906', author: 'iamfinleyy & Icecreamrib', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/4XLYM4AErLI', songUrl:'', type: 'Challenge' },
     
     { name: 'weird challenge ig 2', id: '105585763', author: 'lunatism', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/qhrz2PaJMZg', songUrl:'', type: 'Challenge' },
  
@@ -112,7 +112,7 @@ window.addEventListener('DOMContentLoaded', function() {
     
     { name: 'Shinu', id: '94807515', author: 'Mariner', verifier: 'Mariner', videoUrl: 'https://www.youtube.com/watch?v=v-kjDdP-CKg', songUrl:'', type: 'Challenge' },
 
-    { name: '3sWhy', id: '108899957', author: 'iamfinleyy & Icecreamrib', verifier: 'iamfinleyy', videoUrl: 'nothing', songUrl:'', type: 'Challenge' },
+    { name: '3sWhy', id: '108899957', author: 'iamfinleyy & Icecreamrib', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/mKGCrdGClso', songUrl:'', type: 'Challenge' },
 
     { name: 'owens', id: '102764790', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/_kSu8YzkVHY', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/213318.mp3', type: 'Challenge' },
     
@@ -198,11 +198,11 @@ window.addEventListener('DOMContentLoaded', function() {
     
     { name: 'supa girl racer', id: '107187928', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://youtu.be/I_g4KHYA4iM', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/1.mp3', type: 'Challenge' }, 
 
-    { name: 'Xtraalos', id: '108626982', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'nothing', songUrl:'', type: 'Challenge' },
+    { name: 'Xtraalos', id: '108626982', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/SXXVMlf5yEc', songUrl:'', type: 'Challenge' },
     
     { name: 'JeanPaulEtSesBonAmis', id: '92486595', author: 'Elijah', verifier: 'Elijah', videoUrl: 'https://youtu.be/LzN-D9z1BsM', songUrl:'', type: 'Challenge' },
  
-    { name: 'BornTheJohnnyWay', id: '108899006', author: 'iamfinleyy & bloxyyt', verifier: 'iamfinleyy', videoUrl: 'nothing', songUrl:'', type: 'Challenge' },
+    { name: 'BornTheJohnnyWay', id: '108899006', author: 'iamfinleyy & bloxyyt', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/dlIHSnxMvX8', songUrl:'', type: 'Challenge' },
 
     { name: 'Rimming and Timming', id: '105267749', author: 'Hectorien', verifier: 'Hectorien', videoUrl: 'https://youtu.be/TbC_qAqmiy0', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/906615.mp3', type: 'Challenge' },
     
