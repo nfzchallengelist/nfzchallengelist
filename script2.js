@@ -182,6 +182,8 @@ window.addEventListener('DOMContentLoaded', function() {
 
     { name: 'CGHALLEGNE 4 FINLEY', id: '101697470', author: 'lunatism', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/7oj8zNUAo2Q', songUrl:'', type: 'Challenge' },
 
+    { name: 'The BOUNCYHOUSE', id: '109131261', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/X9V9l49lXp8', songUrl:'', type: 'Challenge' },
+  
     { name: 'challenge by linnea', id: '107131356', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://youtu.be/TQhwEz9Jgx0', songUrl:'', type: 'Challenge' },
       
     { name: 'owo', id: '92690170', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/vPvRNoYdU7I', songUrl:'', type: 'Challenge' },
