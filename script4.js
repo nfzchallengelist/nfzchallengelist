@@ -1,6 +1,8 @@
 window.addEventListener('DOMContentLoaded', function() {
   var levels = [
     //top row is #151 on the list
+
+    { name: 'john jonson chal', id: '103263223', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/eyuf2fs_oK0', songUrl:'', type: 'Challenge' },
     
     { name: 'Cobra', id: '92521006', author: 'Cubangaming1', verifier: 'Cubangaming1', videoUrl: 'https://youtu.be/njChUxU7418', songUrl:'', type: 'Challenge' },
     
