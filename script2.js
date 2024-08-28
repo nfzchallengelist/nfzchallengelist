@@ -180,6 +180,8 @@ window.addEventListener('DOMContentLoaded', function() {
 
     { name: 'ITNWOTF', id: '104305608', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/7HDrdia-LX4', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/1116734.mp3', type: 'Challenge' },
 
+    { name: 'ebola', id: '109534605', author: 'nykolol', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/B2yYhxb2vYo', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/466362.mp3', type: 'Challenge' },
+
     { name: 'CGHALLEGNE 4 FINLEY', id: '101697470', author: 'lunatism', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/7oj8zNUAo2Q', songUrl:'', type: 'Challenge' },
 
     { name: 'The BOUNCYHOUSE', id: '109131261', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/X9V9l49lXp8', songUrl:'', type: 'Challenge' },
@@ -300,10 +302,7 @@ window.addEventListener('DOMContentLoaded', function() {
 
     { name: 'toolsix challenge', id: '82111517', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/SQAoRdgNung', songUrl:'', type: 'Challenge' },
 
-    { name: 'surrender the throne', id: '101558967', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/wVJEa1P3lU0', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/1271915.mp3', type: 'Challenge' },
-
-    { name: '10 jump barry', id: '107447596', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/29InDlnQ3Rw', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/761394.mp3', type: 'Challenge' }
-  
+    { name: 'surrender the throne', id: '101558967', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/wVJEa1P3lU0', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/1271915.mp3', type: 'Challenge' }
     
     //don't put a comma at the end of the last level... or you will Die !!!!!!!
     
