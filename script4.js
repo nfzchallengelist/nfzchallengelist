@@ -2,6 +2,26 @@ window.addEventListener('DOMContentLoaded', function() {
   var levels = [
     //top row is #151 on the list
 
+    { name: 'Miss Tick', id: '97238047', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/RyvLx7MLB8k', songUrl:'', type: 'Challenge' },
+
+    { name: 'WeetabiX', id: '101917735', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/p5Xt2inViRQ', songUrl:'', type: 'Challenge' },
+    
+    { name: 'DeMode Wave', id: '101660635', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/ua9EQCpjjak', songUrl:'', type: 'Challenge' },
+    
+    { name: 'Elijahs Number', id: '102190066', author: 'iamfinleyy', verifier: 'Elijah', videoUrl: 'https://youtu.be/d6BpqdoBc1Q', songUrl:'', type: 'Challenge' },
+    
+    { name: '24hr iamfinley chalk', id: '100976162', author: 'DrigeOrDraig', verifier: 'DrigeOrDraig', videoUrl: 'https://youtu.be/xke2YYdLQJU', songUrl:'', type: 'Challenge' },
+
+    { name: 'bubby drop', id: '108651928', author: 'lunatismm', verifier: 'lunatismm', videoUrl: 'https://youtu.be/JTyRYbZGldo', songUrl:'', type: 'Challenge' },
+    
+    { name: 'Wase MasE', id: '92126003', author: 'Cubangaming1', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/gJfQNreLhBU', songUrl:'', type: 'Challenge' },
+    
+    { name: 'TURBO', id: '101446495', author: 'Cubangaming1', verifier: 'Cubangaming1', videoUrl: 'https://www.youtube.com/watch?v=A9Jl_S37GlM', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/503544.mp3', type: 'Challenge' },
+
+    { name: 'toolsix challenge', id: '82111517', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/SQAoRdgNung', songUrl:'', type: 'Challenge' },
+
+    { name: 'surrender the throne', id: '101558967', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/wVJEa1P3lU0', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/1271915.mp3', type: 'Challenge' },
+
     { name: '10 jump barry', id: '107447596', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/29InDlnQ3Rw', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/761394.mp3', type: 'Challenge' },
   
     { name: 'john jonson chal', id: '103263223', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/eyuf2fs_oK0', songUrl:'', type: 'Challenge' },
