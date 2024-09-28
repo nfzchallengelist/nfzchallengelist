@@ -14,7 +14,7 @@ window.addEventListener('DOMContentLoaded', function() {
 
     { name: 'PINEAPPLEUPSIDEDOWN', id: '93081214', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/2SJF8UDYw9M', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/22222.mp3', type: 'Challenge' },
     
-    { name: 'IMPOSSIBLE SPAM', id: '60714354', author: 'lunatism', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/DplCWtDi9iw', songUrl:'nong needed', type: 'Challenge' },
+    { name: 'IMPOSSIBLE SPAM', id: '60714354', author: 'lunatism', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/DplCWtDi9iw', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/refs/heads/main/nongs/805997.mp3', type: 'Challenge' },
     
     { name: 'MGSSMITMCHASTSEBBTGA', id: '103024910', author: 'Elijah', verifier: 'Elijah', videoUrl: 'https://youtu.be/Ih6UNtTfGT8', songUrl:'', type: 'Challenge' },
 
@@ -26,7 +26,7 @@ window.addEventListener('DOMContentLoaded', function() {
 
     { name: 'Throwing Flashbang', id: '101576176', author: 'Mariner', verifier: 'Mariner', videoUrl: 'https://www.youtube.com/watch?v=Alr4rs1Ug3g', songUrl:'', type: 'Challenge' },
 
-    { name: 'moldy bread', id: '109462448', author: 'Mariner', verifier: 'Mariner', videoUrl: 'https://youtu.be/uzIzIcdIzLE', songUrl:'nong', type: 'Challenge' },
+    { name: 'moldy bread', id: '109462448', author: 'Mariner', verifier: 'Mariner', videoUrl: 'https://youtu.be/uzIzIcdIzLE', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/refs/heads/main/nongs/5000019.mp3', type: 'Challenge' },
     
     { name: '3Si is Dead', id: '95573883', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/xyI-hFyE47I', songUrl:'', type: 'Challenge' },
     
@@ -54,7 +54,7 @@ window.addEventListener('DOMContentLoaded', function() {
     
     { name: 'ermm Awkward', id: '102533575', author: 'iamfinleyy', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/sA4X_lYUACI', songUrl:'', type: 'Challenge' },
 
-    { name: 'expectations', id: '109788390', author: 'Icecreamrib', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/nzUoHQJ6o-Y?si=JDL_PkcStYXMP55P', songUrl:'nong needed', type: 'Challenge' },
+    { name: 'expectations', id: '109788390', author: 'Icecreamrib', verifier: 'iamfinleyy', videoUrl: 'https://youtu.be/nzUoHQJ6o-Y?si=JDL_PkcStYXMP55P', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/refs/heads/main/nongs/3233.mp3', type: 'Challenge' },
     
     { name: 'Place', id: '109115961', author: 'bloxy', verifier: 'bloxy', videoUrl: 'https://youtu.be/532g8Kts_uw', songUrl:'', type: 'Challenge' },
 
