@@ -273,7 +273,9 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'xobama', id: '92020976', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/Jovw88VaXuY', songUrl:'', type: 'Challenge' },
     
     { name: 'we can rest now', id: '97129065', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/CvX5aM0B3yg', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/-49452.mp3', type: 'Challenge' },
-    
+
+    { name: 'the boffle house', id: '110607610', author: 'nykolol', verifier: 'nykolol', videoUrl: 'novideo', songUrl:'', type: 'Challenge' },
+   
     { name: 'lgbt quiz', id: '109537358', author: 'rinjello', verifier: 'rinjello', videoUrl: 'https://www.youtube.com/watch?v=eWegyQUVyuI', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/818027.mp3', type: 'Challenge' },
     
     { name: 'im sorry', id: '92267104', author: 'lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/h5IFr2s3IyU', songUrl:'', type: 'Challenge' },
