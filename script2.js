@@ -38,7 +38,7 @@ window.addEventListener('DOMContentLoaded', function() {
 
     { name: 'moldy bread', id: '109462448', author: 'Mariner', verifier: 'Mariner', videoUrl: 'https://youtu.be/uzIzIcdIzLE', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/refs/heads/main/nongs/5000019.mp3', type: 'Challenge' },
 
-    { name: 'shipgranddad', id: '112155345', author: 'Icecreamrib & lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/KdTh_IFZOhI', songUrl:'', type: 'Challenge' },
+    { name: 'ship granddad', id: '112155345', author: 'Icecreamrib & lunatism', verifier: 'lunatism', videoUrl: 'https://youtu.be/KdTh_IFZOhI', songUrl:'', type: 'Challenge' },
     
     { name: '3Si is Dead', id: '95573883', author: 'Icecreamrib', verifier: 'Icecreamrib', videoUrl: 'https://youtu.be/xyI-hFyE47I', songUrl:'', type: 'Challenge' },
     
