@@ -349,6 +349,8 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'Miss Tick', id: '97238047', author: 'iamfinley', verifier: 'iamfinley', videoUrl: 'https://youtu.be/RyvLx7MLB8k', songUrl:'', type: 'Challenge' },
 
     { name: 'WeetabiX', id: '101917735', author: 'iamfinley', verifier: 'iamfinley', videoUrl: 'https://youtu.be/p5Xt2inViRQ', songUrl:'', type: 'Challenge' },
+
+    { name: 'stereo baldness', id: '111395506', author: 'Hectorien', verifier: 'Hectorien', videoUrl: 'https://youtu.be/enU7n8CZzkM', songUrl:'', type: 'Challenge' },
     
     { name: 'DeMode Wave', id: '101660635', author: 'lunatismm', verifier: 'lunatismm', videoUrl: 'https://youtu.be/ua9EQCpjjak', songUrl:'', type: 'Challenge' },
     
@@ -373,6 +375,8 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'Cobra', id: '92521006', author: 'Cubangaming1', verifier: 'Cubangaming1', videoUrl: 'https://youtu.be/njChUxU7418', songUrl:'', type: 'Challenge' },
     
     { name: 'a m level', id: '92521006', author: 'lunatismm', verifier: 'lunatismm', videoUrl: 'https://youtu.be/ZPOzJATQO2k', songUrl:'', type: 'Challenge' },
+
+    { name: 'No More Finel Nooooo', id: '111520817', author: 'nykolol', verifier: 'nykolol', videoUrl: 'https://youtu.be/jkYfEZTl_yk', songUrl:'', type: 'Challenge' },
     
     { name: 'SNITCHes Get sTICHES', id: '93145754', author: 'iamfinley', verifier: 'iamfinley', videoUrl: 'https://youtu.be/9EFxqiC0v3g', songUrl:'https://github.com/nfzchallengelist/nfzchallengelist.github.io/raw/main/nongs/930302.mp3', type: 'Challenge' },
 
@@ -415,6 +419,8 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'grandma parkinson', id: '101391857', author: 'lunatismm', verifier: 'lunatismm', videoUrl: 'https://youtu.be/C6dyWA2V-sI', songUrl:'', type: 'Challenge' },
     
     { name: 'mobiel chalng', id: '102070782', author: 'lunatismm', verifier: 'lunatismm', videoUrl: 'https://youtu.be/mBfSBJ7XhPY', songUrl:'', type: 'Challenge' },
+
+    { name: 'girls and boys', id: '104822447', author: 'lunatismm', verifier: 'lunatismm', videoUrl: 'https://youtu.be/lXZ5Gr3EkBo', songUrl:'', type: 'Challenge' },
     
     { name: 'WTFdohiyoWTF', id: '97375482', author: 'iamfinley', verifier: 'iamfinley', videoUrl: 'https://youtu.be/iXu3G6CAMX0', songUrl:'', type: 'Challenge' },
     
@@ -444,6 +450,8 @@ window.addEventListener('DOMContentLoaded', function() {
     
     { name: 'if i were a rock', id: '101571607', author: 'iamfinley', verifier: 'iamfinley', videoUrl: 'https://youtu.be/W2tEmwDKX2I', songUrl:'', type: 'Challenge' },
 
+    { name: 'Jerry Seinfeld Chall', id: '111575043', author: 'nykolol', verifier: 'nykolol', videoUrl: 'https://youtu.be/i90vw3NaCOA', songUrl:'', type: 'Challenge' },    
+
     { name: '3 second REAL', id: '97128437', author: 'iamfinley', verifier: 'iamfinley', videoUrl: 'https://youtu.be/plNiGf-Bnl8', songUrl:'', type: 'Challenge' },
 
     { name: 'finley ohio trip', id: '92202872', author: 'TortellinniT', verifier: 'TortellinniT', videoUrl: 'YOUTUBEURLRIGHTHERE', songUrl:'', type: 'Challenge' },
@@ -454,7 +462,7 @@ window.addEventListener('DOMContentLoaded', function() {
     
     { name: 'microclick hell', id: '92127106', author: 'iamfinley', verifier: 'iamfinley', videoUrl: 'YOUTUBEURLRIGHTHERE', songUrl:'', type: 'Challenge' },
     
-     {name: 'spider but not', id: '98051806', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/JR9r4RX6o6E', songUrl:'', type: 'Challenge' },
+    {name: 'spider but not', id: '98051806', author: 'Martijn07', verifier: 'Martijn07', videoUrl: 'https://youtu.be/JR9r4RX6o6E', songUrl:'', type: 'Challenge' },
     
     { name: 'los demonicos extrem', id: '97595421', author: 'Hectorien', verifier: 'Hectorien', videoUrl: 'https://youtu.be/qJ1P6tv0YbI', songUrl:'', type: 'Challenge' },
     
@@ -484,11 +492,15 @@ window.addEventListener('DOMContentLoaded', function() {
     
     { name: 'the first ever', id: '92002834', author: 'iamfinley', verifier: 'iamfinley', videoUrl: 'YOUTUBEURLRIGHTHERE', songUrl:'', type: 'Challenge' },
 
+    { name: 'AKT Trials II', id: '114420459', author: 'iamfinley', verifier: 'WurmDash', videoUrl: 'https://youtu.be/dmMq8Cfgr-4', songUrl:'', type: 'Challenge' },
+
     { name: 'jundice 1', id: '93447664', author: 'jaundiceplier', verifier: 'bloxy', videoUrl: 'YOUTUBEURLRIGHTHERE', songUrl:'', type: 'Challenge' },
     
     { name: 'The Finley', id: '92550525', author: 'lunatismm', verifier: 'lunatismm', videoUrl: 'YOUTUBEURLRIGHTHERE', songUrl:'', type: 'Challenge' },
     
     { name: 'grim cut the ace', id: '92002827', author: 'TortellinniT', verifier: 'TortellinniT', videoUrl: 'YOUTUBEURLRIGHTHERE', songUrl:'', type: 'Challenge' },
+
+    { name: 'ADAM CHALEGN', id: '114397721', author: 'lunatism', verifier: 'WurmDash', videoUrl: 'https://youtu.be/vsf6BGHNtSA', songUrl:'', type: 'Challenge' },
     
     { name: 'Dohiyosmell', id: '92066186', author: 'iamfinley & ache', verifier: 'ache', videoUrl: 'YOUTUBEURLRIGHTHERE', songUrl:'', type: 'Challenge' },
     
