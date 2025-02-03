@@ -410,7 +410,7 @@ window.addEventListener('DOMContentLoaded', function() {
     
     { name: 'Dohiyoer', id: '97334410', author: 'OWOSHA', verifier: 'OWOSHA', videoUrl: 'videourl', songUrl:'', type: 'Challenge' },
    
-    { name: 'check general', id: '97683510', author: 'EllieFan28', verifier: 'EllieFan28', videoUrl: 'https://youtu.be/UldAfQ9zsiw', songUrl:'', type: 'Challenge' },
+    { name: 'check general', id: '97683510', author: 'DJ_', verifier: 'DJ_', videoUrl: 'https://youtu.be/UldAfQ9zsiw', songUrl:'', type: 'Challenge' },
   
     { name: 'fauxureta', id: '92003404', author: 'TortellinniT', verifier: 'TortellinniT', videoUrl: 'YOUTUBEURLRIGHTHERE', songUrl:'', type: 'Challenge' },
  
@@ -421,6 +421,8 @@ window.addEventListener('DOMContentLoaded', function() {
     { name: 'mobiel chalng', id: '102070782', author: 'lunatismm', verifier: 'lunatismm', videoUrl: 'https://youtu.be/mBfSBJ7XhPY', songUrl:'', type: 'Challenge' },
 
     { name: 'girls and boys', id: '104822447', author: 'lunatismm', verifier: 'lunatismm', videoUrl: 'https://youtu.be/lXZ5Gr3EkBo', songUrl:'', type: 'Challenge' },
+
+    { name: 'bro is eating rn', id: '114778586', author: 'iamfinley', verifier: 'HyetalL', videoUrl: 'https://youtu.be/h_2DOiSktxw', songUrl:'', type: 'Challenge' },
     
     { name: 'WTFdohiyoWTF', id: '97375482', author: 'iamfinley', verifier: 'iamfinley', videoUrl: 'https://youtu.be/iXu3G6CAMX0', songUrl:'', type: 'Challenge' },
     
