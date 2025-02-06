@@ -15,6 +15,23 @@
       flex-direction: column; /* Change the flex-direction to column */
     }
 
+    .navigate-button {
+      position: fixed;
+      top: 10px;
+      right: 10px;
+      padding: 5px 10px;
+      background-color: #007bff00;
+      color: rgba(255, 255, 255, 0);
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      z-index: 5; /* Ensure it appears above other elements */
+    }
+
+    .navigate-button:hover {
+      background-color: #0057b300;
+    }
+
     .sidebar {
       position: fixed;
       top: 0;
@@ -135,6 +152,7 @@
   <div class="text-box">
     <p>©Mariner 2024</p>
   </div>
+  <button class="navigate-button" onclick="window.location.href='admin.html'">Go to Admin</button>
   <script src="script2.js"></script>
 </body>
 </html>
