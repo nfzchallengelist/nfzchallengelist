@@ -5,7 +5,8 @@
   <link rel="stylesheet" href="widget.css">
   <title>No Finley Zone Challenge List</title>
   <link rel="icon" type="image/x-icon" href="3sicon.png">
-  <script src="script2.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-database-compat.js"></script>
   <style>
     body {
       margin: 0;
@@ -19,7 +20,7 @@
       top: 0;
       left: 0;
       width: 100%; /* Full width of the screen */
-      background: linear-gradient(to top, #0b0c0c, #18191a);
+      background: linear-gradient(to top, #0b0c0c, #0b0c0c);
       padding: 15px;
       box-shadow: 0px 0px 12px 12px rgba(0, 0, 0, 0.2);
       box-sizing: border-box;
@@ -118,7 +119,7 @@
       <p class="popup-info">ID: <span id="popup-id"></span></p>
       <p class="popup-info">Creator: <span id="popup-author"></span></p>
       <p class="popup-info">Verifier: <span id="popup-verifier"></span></p>
-      <button class="popup-info"><span id="popup-song"></span></button>
+      <p class="popup-info"><button id="popup-song" class="popup-song">Download NONG</button></p>
       <button class="popup-close" id="popup-close">Close</button>
     </div>
   </div>
@@ -128,50 +129,12 @@
   </div>
   <div class="content">
     <div class="middle" id="challengeList">
-      <!-- Your existing content goes here -->
+      <!-- Levels will be loaded here dynamically -->
     </div>
-  </div>
-  <div class="text-box2">
-    
-    <h2 style="text-align: center;">
-        List Commitees
-    </h2>
-
-    <p style="text-align: center;">
-      List Editors: iamfinleyy, lunatism
-    </p>
-    
-    <p style="text-align: center;">
-      <em>List Developer: Mariner</em>
-    </p>
-    
-    <p style="text-align: center;">
-      &nbsp;
-    </p>
-    
-    <h2 style="text-align: center;">
-        Rules
-    </h2>
-    
-    <p style="text-align: center;">
-      have to be in no finley zone to submit challenge/record !!
-    </p>
-    
-    <p style="text-align: center;">
-      <em>youtube video of the verification needed to submit challenges mmmm</em>
-    </p>
-    
-    <p style="text-align: center;">
-      hiii :3
-    </p>
-    
-    <p style="text-align: center;">
-      <em>uhhhhhhhhh Good Morning, Lets Complete silly goober area</em>
-    </p>
-    
   </div>
   <div class="text-box">
     <p>©Mariner 2024</p>
   </div>
+  <script src="script2.js"></script>
 </body>
 </html>

@@ -1,3 +1,93 @@
+// Firebase configuration
+const firebaseConfig = {
+    apiKey: "AIzaSyDNOk2WBps9TmxzmSOqQt0WTCjP-YOKKpU",
+    authDomain: "nfz-challenge-list.firebaseapp.com",
+    databaseURL: "https://nfz-challenge-list-default-rtdb.europe-west1.firebasedatabase.app",
+    projectId: "nfz-challenge-list",
+    storageBucket: "nfz-challenge-list.firebasestorage.app",
+    messagingSenderId: "198735596214",
+    appId: "1:198735596214:web:615e8e919c4d19e446b417"
+};
+
+// Initialize Firebase
+firebase.initializeApp(firebaseConfig);
+
+// Load stats data
+function loadStats() {
+    firebase.database().ref('levels').once('value')
+        .then((snapshot) => {
+            const levels = snapshot.val() || [];
+            calculateStats(levels);
+        })
+        .catch((error) => {
+            console.error("Error loading stats:", error);
+        });
+}
+
+function calculateStats(levels) {
+    // Creator stats
+    const creatorStats = {};
+    const verifierStats = {};
+    
+    levels.forEach(level => {
+        // Handle multiple creators (split by '&')
+        const creators = level.author.split('&').map(creator => creator.trim());
+        creators.forEach(creator => {
+            creatorStats[creator] = (creatorStats[creator] || 0) + 1;
+        });
+
+        // Verifier stats
+        verifierStats[level.verifier] = (verifierStats[level.verifier] || 0) + 1;
+    });
+
+    displayStats(creatorStats, verifierStats, levels.length);
+}
+
+function displayStats(creatorStats, verifierStats, totalLevels) {
+    const statsContainer = document.getElementById('statsContainer');
+    statsContainer.innerHTML = `
+        <h2>NFZ Challenge List Statistics</h2>
+        
+        <div class="stat-section">
+            <div class="total-levels">
+                Total Levels: ${totalLevels}
+            </div>
+        </div>
+        
+        <div class="stat-section">
+            <h3>Top Creators</h3>
+            ${formatStatsList(sortStats(creatorStats))}
+        </div>
+        
+        <div class="stat-section">
+            <h3>Top Verifiers</h3>
+            ${formatStatsList(sortStats(verifierStats))}
+        </div>
+    `;
+}
+
+function sortStats(stats) {
+    return Object.entries(stats)
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, 10); // Top 10
+}
+
+function formatStatsList(sortedStats) {
+    return `
+        <ul class="stats-list">
+            ${sortedStats.map(([name, count], index) => `
+                <li>
+                    <span class="stat-name">${name}</span>
+                    <span class="stat-number">${count} level${count !== 1 ? 's' : ''}</span>
+                </li>
+            `).join('')}
+        </ul>
+    `;
+}
+
+// Load stats when page loads
+window.addEventListener('DOMContentLoaded', loadStats);
+
 window.addEventListener('DOMContentLoaded', function() {
   var levels = [
     //top row is #151 on the list
